@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+				"D:/Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"D:/Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/BP_Projectile.uasset"
 			]
 		}
 	]
