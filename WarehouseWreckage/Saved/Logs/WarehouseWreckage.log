@@ -2112,3 +2112,430 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.19-20.59.09:724][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
 [2023.09.19-20.59.09:730][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2023.09.19-20.59.09:779][172]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.09.19-21.00.02:645][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.19-21.00.02:651][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.19-21.00.02:651][199]PIE: New page: PIE session: Minimal_Default (Sep 19, 2023, 11:00:02 AM)
+[2023.09.19-21.00.02:680][199]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.00.02:684][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004505s)
+[2023.09.19-21.00.02:684][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004567s)
+[2023.09.19-21.00.02:698][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.19-21.00.02:701][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-21.00.02:701][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.19-21.00.02:702][199]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.09.19-21.00.02:702][199]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2023.09.19-21.00.02:702][199]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.09.19-21.00.02:702][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.19-21.00.02:702][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.19-21.00.02:702][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.19-21.00.02:702][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.19-21.00.02:702][199]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.19-21.00.02:702][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.19-21.00.02:702][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.19-21.00.02:702][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.19-21.00.02:702][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.19-21.00.02:702][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.19-21.00.02:702][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.19-21.00.02:704][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.19-21.00.02:735][199]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.19-21.00.02:735][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.19-21.00.02:735][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.19-21.00.02:735][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.19-21.00.02:735][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.09.19-21.00.02:735][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.09.19-21.00.02:737][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.09.19-21.00.02:737][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.09.19-21.00.02:737][199]LogInit: FAudioDevice initialized with ID 12.
+[2023.09.19-21.00.02:737][199]LogAudio: Display: Audio Device (ID: 12) registered with world 'Minimal_Default'.
+[2023.09.19-21.00.02:737][199]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.09.19-21.00.02:741][199]LogLoad: Game class is 'GameModeBase'
+[2023.09.19-21.00.02:742][199]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.09.19-16.00.02
+[2023.09.19-21.00.02:742][199]LogWorld: Bringing up level for play took: 0.001377
+[2023.09.19-21.00.02:744][199]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.09.19-21.00.02:745][199]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello World
+[2023.09.19-21.00.02:746][199]LogBlueprintUserMessages: [Minimal_Default_C_0] Welcome to my game
+[2023.09.19-21.00.02:746][199]PIE: Server logged in
+[2023.09.19-21.00.02:746][199]PIE: Play in editor total start time 0.095 seconds.
+[2023.09.19-21.00.04:830][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.00.04:830][353]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.00.04:830][353]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.09.19-21.00.04:830][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.00.04:835][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.19-21.00.04:839][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.00.04:852][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.00.04:853][353]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.09.19-21.00.04:853][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.19-21.00.04:854][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.19-21.00.04:862][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.09.19-21.00.04:917][354]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.09.19-21.05.01:579][368]Cmd: TRANSACTION UNDO
+[2023.09.19-21.05.01:579][368]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.19-21.05.02:842][435]Cmd: TRANSACTION UNDO
+[2023.09.19-21.05.02:842][435]LogEditorTransaction: Undo Clicking on Actors
+[2023.09.19-21.05.03:868][521]Cmd: TRANSACTION UNDO
+[2023.09.19-21.05.03:868][521]LogEditorTransaction: Undo Clicking on Actors
+[2023.09.19-21.05.42:067][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.09.19-21.05.42:067][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.09.19-21.05.42:067][831]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_14
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: ================================================
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Total job queries 189, among them cache hits 6 (3.17%)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Tracking 171 distinct input hashes that result in 47 distinct outputs (27.49%)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: RAM used: 313.59 KiB of 819.20 MiB budget. Usage: 0.04%
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Shaders Compiled: 171
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Jobs assigned 172, completed 171 (99.42%)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Average time worker was idle: 12.61 s
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Time job spent in pending queue: average 9.19 s, longest 17.02 s
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Job execution time: average 0.91 s, max 4.66 s
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Job life time (pending + execution): average 10.15 s, max 17.75
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Shader code size: average 3.147 KiB, min 280 B, max 9.039 KiB
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.58 s
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Jobs were issued in 172 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Average processing rate: 5.59 jobs/sec
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Total thread time: 116.934 s
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Total thread preprocess time: 14.35 s
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Percentage time preprocessing: 12.27%
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Effective parallelization: 3.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 0.93 sec, max 1.28 sec, min 0.71 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   14 times, average 0.91 sec, max 1.29 sec, min 0.77 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   14 times, average 0.86 sec, max 1.27 sec, min 0.70 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled   14 times, average 0.82 sec, max 0.95 sec, min 0.60 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   14 times, average 0.82 sec, max 0.91 sec, min 0.75 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.09% of total time (compiled   14 times, average 0.93 sec, max 1.28 sec, min 0.71 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 10.91% of total time (compiled   14 times, average 0.91 sec, max 1.29 sec, min 0.77 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.30% of total time (compiled   14 times, average 0.86 sec, max 1.27 sec, min 0.70 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect - 9.86% of total time (compiled   14 times, average 0.82 sec, max 0.95 sec, min 0.60 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.83% of total time (compiled   14 times, average 0.82 sec, max 0.91 sec, min 0.75 sec)
+[2023.09.19-21.05.42:765][891]LogShaderCompilers: Display: ================================================
+[2023.09.19-21.05.44:080][ 19]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.09.19-21.05.44:080][ 19]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.09.19-21.05.44:081][ 19]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_15
+[2023.09.19-21.05.54:097][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.09.19-21.05.54:097][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.09.19-21.05.54:097][788]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16
+[2023.09.19-21.05.55:093][854]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.09.19-21.05.55:093][854]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.09.19-21.05.55:094][854]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_17
+[2023.09.19-21.06.02:929][455]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.09.19-21.06.02:929][455]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.09.19-21.06.02:929][455]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_18
+[2023.09.19-21.06.03:844][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.09.19-21.06.03:844][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.09.19-21.06.03:845][538]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_19
+[2023.09.19-21.06.08:706][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box03.SM_Box03
+[2023.09.19-21.06.08:706][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box03.SM_Box03
+[2023.09.19-21.06.08:707][887]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box03.SM_Box03 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_20
+[2023.09.19-21.06.11:579][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box03.SM_Box03
+[2023.09.19-21.06.11:579][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box03.SM_Box03
+[2023.09.19-21.06.11:580][184]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box03.SM_Box03 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_21
+[2023.09.19-21.06.22:535][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05
+[2023.09.19-21.06.22:535][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05
+[2023.09.19-21.06.22:535][ 12]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_22
+[2023.09.19-21.06.24:891][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05
+[2023.09.19-21.06.24:891][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05
+[2023.09.19-21.06.24:892][221]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_23
+[2023.09.19-21.06.32:261][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01
+[2023.09.19-21.06.32:261][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01
+[2023.09.19-21.06.32:262][757]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_24
+[2023.09.19-21.06.33:876][883]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01
+[2023.09.19-21.06.33:876][883]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01
+[2023.09.19-21.06.33:877][883]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_25
+[2023.09.19-21.06.39:631][326]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.06.39:632][326]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.06.39:633][326]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.06.39:633][326]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.06.51:656][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.09.19-21.06.51:661][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.19-21.06.51:806][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.09.19-21.06.51:826][307]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.09.19-21.06.51:826][307]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Minimal_Default283372ED44CA4FF14936C0B6DB87B759.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.09.19-21.06.51:833][307]LogFileHelpers: All files are already saved.
+[2023.09.19-21.06.51:833][307]LogFileHelpers: Saving map 'Minimal_Default' took 0.086
+[2023.09.19-21.06.51:848][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 645 ms)
+[2023.09.19-21.06.51:850][307]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.09.19-21.06.51:850][307]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.09.19-21.06.58:310][772]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.09.19-21.06.58:310][772]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.09.19-21.06.58:310][772]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_26
+[2023.09.19-21.07.00:110][938]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.09.19-21.07.00:110][938]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.09.19-21.07.00:111][938]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_27
+[2023.09.19-21.07.04:232][228]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.09.19-21.07.04:232][228]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.09.19-21.07.04:233][228]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_28
+[2023.09.19-21.07.07:344][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.09.19-21.07.07:344][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.09.19-21.07.07:345][563]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_29
+[2023.09.19-21.07.38:534][ 52]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.19-21.07.38:539][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.19-21.07.38:539][ 52]PIE: New page: PIE session: Minimal_Default (Sep 19, 2023, 11:07:38 AM)
+[2023.09.19-21.07.38:539][ 52]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.07.38:543][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004098s)
+[2023.09.19-21.07.38:543][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004136s)
+[2023.09.19-21.07.38:559][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.09.19-21.07.38:561][ 52]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-21.07.38:561][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.19-21.07.38:562][ 52]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.09.19-21.07.38:562][ 52]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2023.09.19-21.07.38:562][ 52]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.09.19-21.07.38:562][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.19-21.07.38:562][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.19-21.07.38:562][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.19-21.07.38:562][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.19-21.07.38:562][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.19-21.07.38:562][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.19-21.07.38:562][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.19-21.07.38:562][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.19-21.07.38:563][ 52]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.19-21.07.38:563][ 52]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.19-21.07.38:563][ 52]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.19-21.07.38:565][ 52]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.19-21.07.38:592][ 52]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.19-21.07.38:592][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.19-21.07.38:592][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.19-21.07.38:592][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.19-21.07.38:593][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.09.19-21.07.38:593][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.09.19-21.07.38:595][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.09.19-21.07.38:595][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.09.19-21.07.38:595][ 52]LogInit: FAudioDevice initialized with ID 13.
+[2023.09.19-21.07.38:595][ 52]LogAudio: Display: Audio Device (ID: 13) registered with world 'Minimal_Default'.
+[2023.09.19-21.07.38:595][ 52]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.09.19-21.07.38:600][ 52]LogLoad: Game class is 'GameModeBase'
+[2023.09.19-21.07.38:601][ 52]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.07.38:602][ 52]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.09.19-16.07.38
+[2023.09.19-21.07.38:602][ 52]LogWorld: Bringing up level for play took: 0.001886
+[2023.09.19-21.07.38:604][ 52]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.09.19-21.07.38:605][ 52]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello World
+[2023.09.19-21.07.38:605][ 52]LogBlueprintUserMessages: [Minimal_Default_C_0] Welcome to my game
+[2023.09.19-21.07.38:605][ 52]PIE: Server logged in
+[2023.09.19-21.07.38:606][ 52]PIE: Play in editor total start time 0.068 seconds.
+[2023.09.19-21.07.47:409][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.07.47:409][704]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.07.47:409][704]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.09.19-21.07.47:409][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.07.47:413][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.19-21.07.47:420][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.07.47:435][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.07.47:435][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.09.19-21.07.47:435][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.09.19-21.07.47:437][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.09.19-21.07.47:443][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.19-21.07.47:743][705]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.09.19-21.08.00:021][685]LogSlate: Window 'Message Log' being destroyed
+[2023.09.19-21.08.00:039][685]LogSlate: Window 'Message Log' being destroyed
+[2023.09.19-21.08.08:322][302]Cmd: TRANSACTION UNDO
+[2023.09.19-21.08.08:322][302]LogEditorTransaction: Undo Move Elements
+[2023.09.19-21.08.13:464][679]Cmd: TRANSACTION UNDO
+[2023.09.19-21.08.13:464][679]LogEditorTransaction: Undo Move Elements
+[2023.09.19-21.08.17:702][982]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.19-21.08.17:709][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.19-21.08.17:709][982]PIE: New page: PIE session: Minimal_Default (Sep 19, 2023, 11:08:17 AM)
+[2023.09.19-21.08.17:739][982]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.08.17:742][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003883s)
+[2023.09.19-21.08.17:742][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003926s)
+[2023.09.19-21.08.17:757][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.19-21.08.17:759][982]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-21.08.17:759][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.19-21.08.17:760][982]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.09.19-21.08.17:760][982]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2023.09.19-21.08.17:760][982]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.09.19-21.08.17:760][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.19-21.08.17:760][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.19-21.08.17:760][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.19-21.08.17:760][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.19-21.08.17:760][982]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.19-21.08.17:760][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.19-21.08.17:760][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.19-21.08.17:760][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.19-21.08.17:761][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.19-21.08.17:761][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.19-21.08.17:761][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.19-21.08.17:764][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.19-21.08.17:793][982]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.19-21.08.17:793][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.19-21.08.17:793][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.19-21.08.17:793][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.19-21.08.17:794][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.09.19-21.08.17:794][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.09.19-21.08.17:795][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.09.19-21.08.17:796][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.09.19-21.08.17:796][982]LogInit: FAudioDevice initialized with ID 14.
+[2023.09.19-21.08.17:796][982]LogAudio: Display: Audio Device (ID: 14) registered with world 'Minimal_Default'.
+[2023.09.19-21.08.17:796][982]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.09.19-21.08.17:799][982]LogLoad: Game class is 'GameModeBase'
+[2023.09.19-21.08.17:799][982]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.08.17:802][982]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.09.19-16.08.17
+[2023.09.19-21.08.17:802][982]LogWorld: Bringing up level for play took: 0.002311
+[2023.09.19-21.08.17:804][982]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.09.19-21.08.17:805][982]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello World
+[2023.09.19-21.08.17:805][982]LogBlueprintUserMessages: [Minimal_Default_C_0] Welcome to my game
+[2023.09.19-21.08.17:805][982]PIE: Server logged in
+[2023.09.19-21.08.17:806][982]PIE: Play in editor total start time 0.097 seconds.
+[2023.09.19-21.08.21:830][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.08.21:830][271]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.08.21:830][271]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.09.19-21.08.21:830][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.08.21:833][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.19-21.08.21:837][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.08.21:850][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.08.21:850][271]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.09.19-21.08.21:850][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.09.19-21.08.21:853][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.09.19-21.08.21:859][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.09.19-21.08.22:045][272]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.09.19-21.08.45:119][372]LogSlate: Window 'Message Log' being destroyed
+[2023.09.19-21.08.45:124][372]LogSlate: Window 'Message Log' being destroyed
+[2023.09.19-21.09.03:684][881]Cmd: DELETE
+[2023.09.19-21.09.03:684][881]Cmd: ACTOR DELETE
+[2023.09.19-21.09.03:687][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.19-21.09.03:703][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.09.19-21.09.03:706][881]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.09.19-21.09.05:143][  9]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.19-21.09.05:148][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.19-21.09.05:148][  9]PIE: New page: PIE session: Minimal_Default (Sep 19, 2023, 11:09:05 AM)
+[2023.09.19-21.09.05:148][  9]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.09.05:154][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005565s)
+[2023.09.19-21.09.05:154][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005602s)
+[2023.09.19-21.09.05:166][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.09.19-21.09.05:170][  9]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-21.09.05:170][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.19-21.09.05:170][  9]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.09.19-21.09.05:170][  9]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2023.09.19-21.09.05:170][  9]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.09.19-21.09.05:170][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.19-21.09.05:170][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.19-21.09.05:170][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.19-21.09.05:170][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.19-21.09.05:170][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.19-21.09.05:170][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.19-21.09.05:170][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.19-21.09.05:170][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.19-21.09.05:171][  9]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.19-21.09.05:171][  9]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.19-21.09.05:171][  9]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.19-21.09.05:173][  9]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.19-21.09.05:201][  9]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.19-21.09.05:201][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.19-21.09.05:201][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.19-21.09.05:201][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.19-21.09.05:202][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.09.19-21.09.05:202][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.09.19-21.09.05:204][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.09.19-21.09.05:204][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.09.19-21.09.05:204][  9]LogInit: FAudioDevice initialized with ID 15.
+[2023.09.19-21.09.05:204][  9]LogAudio: Display: Audio Device (ID: 15) registered with world 'Minimal_Default'.
+[2023.09.19-21.09.05:204][  9]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.19-21.09.05:207][  9]LogLoad: Game class is 'GameModeBase'
+[2023.09.19-21.09.05:208][  9]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.05:209][  9]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.09.19-16.09.05
+[2023.09.19-21.09.05:209][  9]LogWorld: Bringing up level for play took: 0.001718
+[2023.09.19-21.09.05:211][  9]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.09.19-21.09.05:212][  9]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello World
+[2023.09.19-21.09.05:212][  9]LogBlueprintUserMessages: [Minimal_Default_C_0] Welcome to my game
+[2023.09.19-21.09.05:212][  9]PIE: Server logged in
+[2023.09.19-21.09.05:213][  9]PIE: Play in editor total start time 0.066 seconds.
+[2023.09.19-21.09.06:509][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.09.06:509][ 94]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.09.06:509][ 94]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.09.19-21.09.06:510][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.09.06:512][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.19-21.09.06:516][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.09.06:529][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.19-21.09.06:529][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.19-21.09.06:529][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.19-21.09.06:531][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.19-21.09.06:536][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.09.06:539][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.09.19-21.09.06:674][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.09.19-21.09.13:418][688]LogSlate: Window 'Message Log' being destroyed
+[2023.09.19-21.09.13:424][688]LogSlate: Window 'Message Log' being destroyed
+[2023.09.19-21.09.17:625][ 22]Cmd: TRANSACTION UNDO
+[2023.09.19-21.09.17:625][ 22]LogEditorTransaction: Undo Delete Elements
+[2023.09.19-21.09.25:104][560]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.19-21.09.25:110][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.19-21.09.25:110][560]PIE: New page: PIE session: Minimal_Default (Sep 19, 2023, 11:09:25 AM)
+[2023.09.19-21.09.25:110][560]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.09.25:114][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004233s)
+[2023.09.19-21.09.25:115][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004274s)
+[2023.09.19-21.09.25:129][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.19-21.09.25:132][560]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-21.09.25:132][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.19-21.09.25:132][560]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.09.19-21.09.25:133][560]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2023.09.19-21.09.25:133][560]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.09.19-21.09.25:133][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.19-21.09.25:133][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.19-21.09.25:133][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.19-21.09.25:133][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.19-21.09.25:133][560]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.19-21.09.25:133][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.19-21.09.25:133][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.19-21.09.25:133][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.19-21.09.25:133][560]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.19-21.09.25:133][560]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.19-21.09.25:133][560]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.19-21.09.25:136][560]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.19-21.09.25:163][560]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.19-21.09.25:164][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.19-21.09.25:164][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.19-21.09.25:164][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.19-21.09.25:165][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.09.19-21.09.25:165][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.09.19-21.09.25:167][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.09.19-21.09.25:167][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.09.19-21.09.25:167][560]LogInit: FAudioDevice initialized with ID 16.
+[2023.09.19-21.09.25:167][560]LogAudio: Display: Audio Device (ID: 16) registered with world 'Minimal_Default'.
+[2023.09.19-21.09.25:167][560]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.19-21.09.25:170][560]LogLoad: Game class is 'GameModeBase'
+[2023.09.19-21.09.25:172][560]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.09.19-16.09.25
+[2023.09.19-21.09.25:172][560]LogWorld: Bringing up level for play took: 0.001722
+[2023.09.19-21.09.25:174][560]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.09.19-21.09.25:175][560]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello World
+[2023.09.19-21.09.25:175][560]LogBlueprintUserMessages: [Minimal_Default_C_0] Welcome to my game
+[2023.09.19-21.09.25:175][560]PIE: Server logged in
+[2023.09.19-21.09.25:176][560]PIE: Play in editor total start time 0.067 seconds.
+[2023.09.19-21.09.26:589][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.09.26:589][653]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.09.19-21.09.26:589][653]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.09.19-21.09.26:589][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.09.26:592][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.19-21.09.26:595][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-21.09.26:608][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-21.09.26:609][653]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.19-21.09.26:609][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.19-21.09.26:610][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.19-21.09.26:619][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.09.19-21.09.26:681][654]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.09.19-21.09.36:318][411]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.36:318][411]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.36:319][411]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.36:319][411]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.38:086][559]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.38:086][559]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.38:086][559]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.38:086][559]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.38:837][622]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.38:837][622]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.38:838][622]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.38:838][622]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.39:473][674]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.39:474][674]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.39:474][674]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.39:474][674]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.41:118][816]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.41:119][816]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.41:119][816]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.09.41:119][816]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Floor.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.09.19-21.10.30:873][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.09.19-21.10.30:879][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.19-21.10.30:992][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.09.19-21.10.31:012][262]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.09.19-21.10.31:012][262]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Minimal_Default58AA61EA469F276296BC53834760AFC8.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.09.19-21.10.31:019][262]LogFileHelpers: All files are already saved.
+[2023.09.19-21.10.31:019][262]LogFileHelpers: Saving map 'Minimal_Default' took 0.069
+[2023.09.19-21.10.31:033][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 800 ms)
+[2023.09.19-21.10.31:035][262]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.09.19-21.10.31:035][262]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
