@@ -4004,3 +4004,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.20-22.39.46:836][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 2.94 sec)
 [2023.09.20-22.39.46:838][964]AssetCheck: New page: Asset Save: MainMap
 [2023.09.20-22.39.46:838][964]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.09.20-22.40.44:150][364]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-22.40.44:150][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-22.41.01:200][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.09.20-22.41.01:210][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.20-22.41.01:278][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.20-22.41.01:317][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.09.20-22.41.01:359][385]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.09.20-22.41.01:359][385]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/MainMap9A5008EB4FEEF3AF15D502A8E029808B.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap'
+[2023.09.20-22.41.01:366][385]LogFileHelpers: Saving map 'MainMap' took 0.089
+[2023.09.20-22.41.01:374][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 3.10 sec)
+[2023.09.20-22.41.01:376][385]AssetCheck: New page: Asset Save: MainMap
+[2023.09.20-22.41.01:376][385]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
