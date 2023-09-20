@@ -2955,3 +2955,177 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.20-21.17.41:582][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 1.09 sec)
 [2023.09.20-21.17.41:583][438]AssetCheck: New page: Asset Save: MainMap
 [2023.09.20-21.17.41:583][438]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.09.20-21.18.54:515][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.09.20-21.18.54:520][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.20-21.18.54:600][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.20-21.18.54:645][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.09.20-21.18.54:682][  0]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.09.20-21.18.54:682][  0]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/MainMap4B2967FD49E3AC58DCCE63949B3B57B7.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap'
+[2023.09.20-21.18.54:690][  0]LogFileHelpers: Saving map 'MainMap' took 0.090
+[2023.09.20-21.18.54:696][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 1.27 sec)
+[2023.09.20-21.18.54:699][  0]AssetCheck: New page: Asset Save: MainMap
+[2023.09.20-21.18.54:699][  0]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.09.20-21.19.42:720][748]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.09.20-21.19.42:720][748]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.09.20-21.26.02:094][358]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.20-21.26.04:839][627]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.20-21.26.04:844][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.20-21.26.04:846][627]PIE: New page: PIE session: MainMap (Sep 20, 2023, 11:26:04 AM)
+[2023.09.20-21.26.04:846][627]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2023.09.20-21.26.04:857][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012435s)
+[2023.09.20-21.26.04:858][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.012478s)
+[2023.09.20-21.26.04:876][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.09.20-21.26.04:879][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.20-21.26.04:879][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-21.26.04:880][627]LogAIModule: Creating AISystem for world MainMap
+[2023.09.20-21.26.04:880][627]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2023.09.20-21.26.04:880][627]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.09.20-21.26.04:880][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-21.26.04:880][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-21.26.04:880][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-21.26.04:880][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-21.26.04:880][627]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.20-21.26.04:880][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.20-21.26.04:880][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.20-21.26.04:880][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-21.26.04:880][627]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-21.26.04:880][627]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-21.26.04:880][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-21.26.04:882][627]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-21.26.04:909][627]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.20-21.26.04:909][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-21.26.04:909][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-21.26.04:909][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-21.26.04:912][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.09.20-21.26.04:912][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.09.20-21.26.04:913][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.09.20-21.26.04:913][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.09.20-21.26.04:913][627]LogInit: FAudioDevice initialized with ID 28.
+[2023.09.20-21.26.04:913][627]LogAudio: Display: Audio Device (ID: 28) registered with world 'MainMap'.
+[2023.09.20-21.26.04:913][627]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.09.20-21.26.04:920][627]LogLoad: Game class is 'GameModeBase'
+[2023.09.20-21.26.04:924][627]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2023.09.20-16.26.04
+[2023.09.20-21.26.04:925][627]LogWorld: Bringing up level for play took: 0.005452
+[2023.09.20-21.26.04:927][627]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.09.20-21.26.04:928][627]LogBlueprintUserMessages: [MainMap_C_7] Welcome to the Warehouse
+[2023.09.20-21.26.04:928][627]LogBlueprintUserMessages: [MainMap_C_7] You have 20 rounds, go nuts!!!!
+[2023.09.20-21.26.04:928][627]LogBlueprintUserMessages: [MainMap_C_7] 20
+[2023.09.20-21.26.04:928][627]PIE: Server logged in
+[2023.09.20-21.26.04:929][627]PIE: Play in editor total start time 0.084 seconds.
+[2023.09.20-21.26.09:526][ 80]LogBlueprintUserMessages: [MainMap_C_7] 19
+[2023.09.20-21.26.11:125][242]LogBlueprintUserMessages: [MainMap_C_7] 18
+[2023.09.20-21.26.12:079][339]LogBlueprintUserMessages: [MainMap_C_7] 17
+[2023.09.20-21.26.13:741][506]LogBlueprintUserMessages: [MainMap_C_7] 16
+[2023.09.20-21.26.13:951][527]LogBlueprintUserMessages: [MainMap_C_7] 15
+[2023.09.20-21.26.14:145][546]LogBlueprintUserMessages: [MainMap_C_7] 14
+[2023.09.20-21.26.14:307][562]LogBlueprintUserMessages: [MainMap_C_7] 13
+[2023.09.20-21.26.14:448][576]LogBlueprintUserMessages: [MainMap_C_7] 12
+[2023.09.20-21.26.14:648][595]LogBlueprintUserMessages: [MainMap_C_7] 11
+[2023.09.20-21.26.14:807][610]LogBlueprintUserMessages: [MainMap_C_7] 10
+[2023.09.20-21.26.14:967][625]LogBlueprintUserMessages: [MainMap_C_7] 9
+[2023.09.20-21.26.15:136][641]LogBlueprintUserMessages: [MainMap_C_7] 8
+[2023.09.20-21.26.15:317][658]LogBlueprintUserMessages: [MainMap_C_7] 7
+[2023.09.20-21.26.15:487][674]LogBlueprintUserMessages: [MainMap_C_7] 6
+[2023.09.20-21.26.15:659][690]LogBlueprintUserMessages: [MainMap_C_7] 5
+[2023.09.20-21.26.15:829][706]LogBlueprintUserMessages: [MainMap_C_7] 4
+[2023.09.20-21.26.16:029][725]LogBlueprintUserMessages: [MainMap_C_7] 3
+[2023.09.20-21.26.16:203][742]LogBlueprintUserMessages: [MainMap_C_7] 2
+[2023.09.20-21.26.16:455][766]LogBlueprintUserMessages: [MainMap_C_7] 1
+[2023.09.20-21.26.17:474][865]LogBlueprintUserMessages: [MainMap_C_7] 0
+[2023.09.20-21.26.17:987][915]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.18:495][965]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.18:725][988]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.18:915][  7]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.19:127][ 28]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.19:327][ 48]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.19:535][ 69]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.19:698][ 85]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.19:777][ 93]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.20:008][116]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.20:219][137]LogBlueprintUserMessages: [MainMap_C_7] Out of ammo!!! :(
+[2023.09.20-21.26.21:002][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-21.26.21:002][213]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2023.09.20-21.26.21:003][213]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-21.26.21:004][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-21.26.21:008][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-21.26.21:011][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-21.26.21:026][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-21.26.21:027][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.09.20-21.26.21:027][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.09.20-21.26.21:029][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.09.20-21.26.21:038][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.09.20-21.26.21:116][214]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.09.20-21.29.10:746][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.09.20-21.29.10:749][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.20-21.29.10:785][612]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainMap_Auto5
+[2023.09.20-21.29.10:786][612]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/MainMap_Auto540C5CC1243FCEF86CDA29CB3D42A1D8B.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto5.umap'
+[2023.09.20-21.29.10:787][612]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto5.umap is in the /Temp path, will not scan.
+[2023.09.20-21.29.10:787][612]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/MainMap_Auto5 is in the /Temp path, will not scan.
+[2023.09.20-21.29.10:787][612]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/MainMap_Auto5 is in the /Temp path, will not scan.
+[2023.09.20-21.29.10:787][612]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.056
+[2023.09.20-21.29.10:787][612]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2023.09.20-21.36.21:529][940]LogBlueprint: Error: [AssetLog] : [Compiler] Dependency cycle detected, preventing node  vector * vector  from being scheduled
+[2023.09.20-21.36.21:546][940]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.36.21:546][940]BlueprintLog: Error: Dependency cycle detected, preventing node  vector * vector  from being scheduled
+[2023.09.20-21.36.38:608][912]LogBlueprint: Error: [AssetLog] : [Compiler] Dependency cycle detected, preventing node  vector * vector  from being scheduled
+[2023.09.20-21.36.38:608][912]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.36.38:608][912]BlueprintLog: Error: Dependency cycle detected, preventing node  vector * vector  from being scheduled
+[2023.09.20-21.36.46:619][794]LogSlate: Window 'Message Log' being destroyed
+[2023.09.20-21.36.46:638][794]LogSlate: Window 'Message Log' being destroyed
+[2023.09.20-21.37.12:886][446]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.130 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2057 files in 3326 folders with total size 104 MiB.
+[2023.09.20-21.37.27:099][537]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.39.11:091][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.09.20-21.39.11:097][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.20-21.39.11:132][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainMap_Auto6
+[2023.09.20-21.39.11:132][ 22]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/MainMap_Auto65CB891DD4BA4444CBACA0D977040C8FC.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto6.umap'
+[2023.09.20-21.39.11:132][ 22]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto6.umap is in the /Temp path, will not scan.
+[2023.09.20-21.39.11:132][ 22]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/MainMap_Auto6 is in the /Temp path, will not scan.
+[2023.09.20-21.39.11:132][ 22]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/MainMap_Auto6 is in the /Temp path, will not scan.
+[2023.09.20-21.39.11:133][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.055
+[2023.09.20-21.39.11:133][ 22]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2023.09.20-21.55.54:003][927]LogBlueprint: Error: [AssetLog] : [Compiler] Space Bar  cannot be placed in function graph
+[2023.09.20-21.55.54:003][927]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.55.54:003][927]BlueprintLog: Error: Space Bar  cannot be placed in function graph
+[2023.09.20-21.55.59:162][468]LogBlueprint: Error: [AssetLog] : [Compiler] Space Bar  cannot be placed in function graph
+[2023.09.20-21.55.59:162][468]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.55.59:162][468]BlueprintLog: Error: Space Bar  cannot be placed in function graph
+[2023.09.20-21.56.19:884][633]LogBlueprint: Error: [AssetLog] : [Compiler] Event BeginPlay  cannot be placed in function graph
+[2023.09.20-21.56.19:884][633]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.56.19:884][633]BlueprintLog: Error: Event BeginPlay  cannot be placed in function graph
+[2023.09.20-21.56.28:031][525]LogSlate: Window 'Message Log' being destroyed
+[2023.09.20-21.56.28:038][525]LogSlate: Window 'Message Log' being destroyed
+[2023.09.20-21.56.30:698][814]LogBlueprint: Error: [AssetLog] : [Compiler] Event BeginPlay  cannot be placed in function graph
+[2023.09.20-21.56.30:698][814]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.56.30:698][814]BlueprintLog: Error: Event BeginPlay  cannot be placed in function graph
+[2023.09.20-21.56.49:721][991]LogBlueprint: Error: [AssetLog] : [Compiler] Event BeginPlay  cannot be placed in function graph
+[2023.09.20-21.56.49:721][991]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.56.49:721][991]BlueprintLog: Error: Event BeginPlay  cannot be placed in function graph
+[2023.09.20-21.56.56:864][779]LogSlate: Window 'Message Log' being destroyed
+[2023.09.20-21.56.56:868][779]LogSlate: Window 'Message Log' being destroyed
+[2023.09.20-21.57.01:296][278]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.57.37:408][539]LogBlueprint: Error: [AssetLog] : [Compiler] Space Bar  cannot be placed in function graph
+[2023.09.20-21.57.37:408][539]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.57.37:408][539]BlueprintLog: Error: Space Bar  cannot be placed in function graph
+[2023.09.20-21.57.42:945][131]LogSlate: Window 'Message Log' being destroyed
+[2023.09.20-21.57.42:950][131]LogSlate: Window 'Message Log' being destroyed
+[2023.09.20-21.57.52:031][199]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.58.13:650][758]BlueprintLog: New page: Collapse to Function
+[2023.09.20-21.59.19:962][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.09.20-21.59.19:972][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.20-21.59.20:010][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainMap_Auto7
+[2023.09.20-21.59.20:010][767]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/MainMap_Auto7B7BD1C4349CB9515257456A880F1DD14.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto7.umap'
+[2023.09.20-21.59.20:011][767]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto7.umap is in the /Temp path, will not scan.
+[2023.09.20-21.59.20:011][767]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/MainMap_Auto7 is in the /Temp path, will not scan.
+[2023.09.20-21.59.20:011][767]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/MainMap_Auto7 is in the /Temp path, will not scan.
+[2023.09.20-21.59.20:011][767]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.065
+[2023.09.20-21.59.20:011][767]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2023.09.20-21.59.42:701][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.20-21.59.42:705][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.20-21.59.42:792][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.20-21.59.42:833][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.09.20-21.59.42:872][ 11]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.09.20-21.59.42:872][ 11]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/MainMapEB7D72A5466A374C5C3978B2BAA8AA5C.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap'
+[2023.09.20-21.59.42:879][ 11]LogFileHelpers: Saving map 'MainMap' took 0.088
+[2023.09.20-21.59.42:885][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 1.45 sec)
+[2023.09.20-21.59.42:887][ 11]AssetCheck: New page: Asset Save: MainMap
+[2023.09.20-21.59.42:887][ 11]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
