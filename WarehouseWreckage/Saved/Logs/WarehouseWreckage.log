@@ -3468,3 +3468,105 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.20-22.12.36:560][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 2.13 sec)
 [2023.09.20-22.12.36:562][221]AssetCheck: New page: Asset Save: MainMap
 [2023.09.20-22.12.36:562][221]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.09.20-22.18.28:780][111]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.20-22.18.28:785][111]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.20-22.18.28:786][111]LogPlayLevel: [PlayLevel] Compiling MainMap before play...
+[2023.09.20-22.18.28:825][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.20-22.18.28:832][111]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2023.09.20-22.18.28:832][111]PIE: New page: PIE session: MainMap (Sep 20, 2023, 12:18:28 PM)
+[2023.09.20-22.18.28:832][111]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2023.09.20-22.18.28:843][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011942s)
+[2023.09.20-22.18.28:844][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.011982s)
+[2023.09.20-22.18.28:858][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.20-22.18.28:859][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.20-22.18.28:859][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-22.18.28:860][111]LogAIModule: Creating AISystem for world MainMap
+[2023.09.20-22.18.28:860][111]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2023.09.20-22.18.28:860][111]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.09.20-22.18.28:860][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-22.18.28:860][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-22.18.28:860][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-22.18.28:860][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-22.18.28:860][111]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.20-22.18.28:860][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.20-22.18.28:860][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.20-22.18.28:860][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-22.18.28:860][111]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-22.18.28:860][111]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-22.18.28:861][111]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-22.18.28:863][111]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-22.18.28:890][111]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.20-22.18.28:890][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-22.18.28:890][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-22.18.28:890][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-22.18.28:891][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.09.20-22.18.28:891][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.09.20-22.18.28:893][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.09.20-22.18.28:893][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.09.20-22.18.28:893][111]LogInit: FAudioDevice initialized with ID 32.
+[2023.09.20-22.18.28:893][111]LogAudio: Display: Audio Device (ID: 32) registered with world 'MainMap'.
+[2023.09.20-22.18.28:893][111]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.09.20-22.18.28:961][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-22.18.28:961][111]LogLoad: Game class is 'GameModeBase'
+[2023.09.20-22.18.28:967][111]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2023.09.20-17.18.28
+[2023.09.20-22.18.28:968][111]LogWorld: Bringing up level for play took: 0.005585
+[2023.09.20-22.18.28:970][111]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.09.20-22.18.28:971][111]LogBlueprintUserMessages: [MainMap_C_11] Welcome to the Warehouse
+[2023.09.20-22.18.28:972][111]LogBlueprintUserMessages: [MainMap_C_11] You have 20 rounds, go nuts!!!!
+[2023.09.20-22.18.28:972][111]LogBlueprintUserMessages: [MainMap_C_11] 20
+[2023.09.20-22.18.28:973][111]PIE: Server logged in
+[2023.09.20-22.18.28:973][111]PIE: Play in editor total start time 0.189 seconds.
+[2023.09.20-22.18.29:005][111]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.09.20-22.18.30:446][215]LogBlueprintUserMessages: [MainMap_C_11] 19
+[2023.09.20-22.18.30:673][235]LogBlueprintUserMessages: [MainMap_C_11] 18
+[2023.09.20-22.18.30:890][254]LogBlueprintUserMessages: [MainMap_C_11] 17
+[2023.09.20-22.18.31:059][268]LogBlueprintUserMessages: [MainMap_C_11] 16
+[2023.09.20-22.18.31:253][285]LogBlueprintUserMessages: [MainMap_C_11] 15
+[2023.09.20-22.18.31:444][302]LogBlueprintUserMessages: [MainMap_C_11] 14
+[2023.09.20-22.18.31:603][316]LogBlueprintUserMessages: [MainMap_C_11] 13
+[2023.09.20-22.18.31:802][333]LogBlueprintUserMessages: [MainMap_C_11] 12
+[2023.09.20-22.18.31:986][348]LogBlueprintUserMessages: [MainMap_C_11] 11
+[2023.09.20-22.18.32:195][366]LogBlueprintUserMessages: [MainMap_C_11] 10
+[2023.09.20-22.18.32:381][382]LogBlueprintUserMessages: [MainMap_C_11] 9
+[2023.09.20-22.18.32:570][398]LogBlueprintUserMessages: [MainMap_C_11] 8
+[2023.09.20-22.18.32:769][415]LogBlueprintUserMessages: [MainMap_C_11] 7
+[2023.09.20-22.18.32:943][429]LogBlueprintUserMessages: [MainMap_C_11] 6
+[2023.09.20-22.18.33:142][445]LogBlueprintUserMessages: [MainMap_C_11] 5
+[2023.09.20-22.18.33:346][461]LogBlueprintUserMessages: [MainMap_C_11] 4
+[2023.09.20-22.18.33:529][476]LogBlueprintUserMessages: [MainMap_C_11] 3
+[2023.09.20-22.18.33:713][491]LogBlueprintUserMessages: [MainMap_C_11] 2
+[2023.09.20-22.18.33:911][507]LogBlueprintUserMessages: [MainMap_C_11] 1
+[2023.09.20-22.18.34:095][522]LogBlueprintUserMessages: [MainMap_C_11] 0
+[2023.09.20-22.18.34:282][537]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.34:464][552]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.34:634][566]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.34:819][581]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.34:977][594]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.35:190][612]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.35:434][632]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.35:705][655]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.37:391][799]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.37:606][818]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.37:865][841]LogBlueprintUserMessages: [MainMap_C_11] Out of ammo!!! :(
+[2023.09.20-22.18.38:989][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-22.18.38:991][935]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2023.09.20-22.18.38:991][935]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2023.09.20-22.18.38:995][935]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-22.18.38:996][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-22.18.38:998][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-22.18.39:003][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-22.18.39:019][935]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.09.20-22.18.39:019][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.09.20-22.18.39:022][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.09.20-22.18.39:030][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.09.20-22.18.39:096][936]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.09.20-22.19.23:409][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.09.20-22.19.23:415][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.20-22.19.23:507][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.20-22.19.23:537][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.09.20-22.19.23:592][402]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.09.20-22.19.23:592][402]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/MainMap538899EE43248C8D7CCF84BEF48F3337.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap'
+[2023.09.20-22.19.23:600][402]LogFileHelpers: Saving map 'MainMap' took 0.093
+[2023.09.20-22.19.23:606][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 2.32 sec)
+[2023.09.20-22.19.23:607][402]AssetCheck: New page: Asset Save: MainMap
+[2023.09.20-22.19.23:607][402]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
