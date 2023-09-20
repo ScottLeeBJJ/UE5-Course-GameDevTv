@@ -2441,3 +2441,58 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.20-01.24.43:613][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 287 ms)
 [2023.09.20-01.24.43:615][930]AssetCheck: New page: Asset Save: MainMap
 [2023.09.20-01.24.43:615][930]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.09.20-01.30.28:144][465]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.080 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2003 files in 3255 folders with total size 104 MiB.
+[2023.09.20-01.32.43:084][519]Cmd: DELETE
+[2023.09.20-01.32.43:100][519]Cmd: ACTOR DELETE
+[2023.09.20-01.32.43:422][519]LogEditorActor: Deleted Actor: Brush
+[2023.09.20-01.32.43:438][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.09.20-01.32.43:470][519]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2023.09.20-01.32.45:412][714]Cmd: DELETE
+[2023.09.20-01.32.45:412][714]Cmd: ACTOR DELETE
+[2023.09.20-01.32.45:416][714]LogEditorActor: Deleted Actor: Brush
+[2023.09.20-01.32.45:432][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.09.20-01.32.45:462][714]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2023.09.20-01.32.46:652][825]Cmd: DELETE
+[2023.09.20-01.32.46:653][825]Cmd: ACTOR DELETE
+[2023.09.20-01.32.46:655][825]LogEditorActor: Deleted Actor: Brush
+[2023.09.20-01.32.46:669][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.20-01.32.46:699][825]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.09.20-01.32.48:378][987]Cmd: DELETE
+[2023.09.20-01.32.48:378][987]Cmd: ACTOR DELETE
+[2023.09.20-01.32.48:380][987]LogEditorActor: Deleted Actor: Brush
+[2023.09.20-01.32.48:394][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.20-01.32.48:428][987]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2023.09.20-01.32.49:303][ 56]Cmd: DELETE
+[2023.09.20-01.32.49:304][ 56]Cmd: ACTOR DELETE
+[2023.09.20-01.32.49:306][ 56]LogEditorActor: Deleted Actor: Brush
+[2023.09.20-01.32.49:319][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.09.20-01.32.49:349][ 56]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.09.20-01.32.50:214][132]Cmd: DELETE
+[2023.09.20-01.32.50:215][132]Cmd: ACTOR DELETE
+[2023.09.20-01.32.50:217][132]LogEditorActor: Deleted Actor: Brush
+[2023.09.20-01.32.50:231][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.09.20-01.32.50:260][132]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.09.20-01.32.51:191][212]Cmd: DELETE
+[2023.09.20-01.32.51:191][212]Cmd: ACTOR DELETE
+[2023.09.20-01.32.51:194][212]LogEditorActor: Deleted Actor: Brush
+[2023.09.20-01.32.51:208][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.20-01.32.51:237][212]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.09.20-01.36.13:665][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.09.20-01.36.13:670][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.20-01.36.13:714][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainMap_Auto2
+[2023.09.20-01.36.13:714][863]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/MainMap_Auto2367BD18E4CF7DED1D9065388C0ECB3BB.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto2.umap'
+[2023.09.20-01.36.13:715][863]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto2.umap is in the /Temp path, will not scan.
+[2023.09.20-01.36.13:715][863]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/MainMap_Auto2 is in the /Temp path, will not scan.
+[2023.09.20-01.36.13:715][863]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/MainMap_Auto2 is in the /Temp path, will not scan.
+[2023.09.20-01.36.13:716][863]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.065
+[2023.09.20-01.36.13:716][863]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2023.09.20-01.56.37:034][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.09.20-01.56.37:039][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.20-01.56.37:073][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.20-01.56.37:104][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.20-01.56.37:130][ 43]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.09.20-01.56.37:131][ 43]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Saved/MainMap8F1D3E164D968ADBFF752E877BB04C18.tmp' to '../../../../../Development/UE5-Course-GameDevTv/WarehouseWreckage/Content/MainMap.umap'
+[2023.09.20-01.56.37:140][ 43]LogFileHelpers: Saving map 'MainMap' took 0.067
+[2023.09.20-01.56.37:146][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 394 ms)
+[2023.09.20-01.56.37:147][ 43]AssetCheck: New page: Asset Save: MainMap
+[2023.09.20-01.56.37:147][ 43]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
