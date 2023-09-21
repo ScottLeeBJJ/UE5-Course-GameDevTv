@@ -3030,3 +3030,9 @@ Make sure 'ThirdPersonCharacter' has been compiled for  Reset Orientation and Po
 [2023.09.21-14.41.32:446][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2023.09.21-14.41.32:455][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
 [2023.09.21-14.41.32:488][139]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.09.21-14.58.09:485][ 45]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.469 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13136 files in 16334 folders with total size 475 MiB.
+[2023.09.21-14.59.39:022][451]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-14.59.39:022][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.59.40:279][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.09.21-14.59.40:279][547]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-14.59.40:279][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
