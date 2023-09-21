@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap"
+				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap",
+				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_3rdPersonCharacter.uasset",
+				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO.uasset"
 			]
 		}
 	]

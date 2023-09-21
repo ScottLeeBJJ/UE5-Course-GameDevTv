@@ -2512,3 +2512,521 @@ Make sure 'ThirdPersonCharacter' has been compiled for  Reset Orientation and Po
 [2023.09.21-14.25.27:832][311]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
 [2023.09.21-14.25.30:800][478]LogViewport: Scene viewport resized to 1256x867, mode Windowed.
 [2023.09.21-14.25.33:213][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.09.21-14.28.33:765][ 20]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.09.21-14.28.59:751][ 20]LogSlate: Window 'Select Path' being destroyed
+[2023.09.21-14.29.03:699][ 20]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.09.21-14.29.03:737][ 20]LogActorComponent: UnregisterComponent: (/Game/BP_3rdPersonCharacter.Default__BP_3rdPersonCharacter_C:CollisionCylinder) Not registered. Aborting.
+[2023.09.21-14.29.03:748][ 20]LogActorComponent: UnregisterComponent: (/Game/BP_3rdPersonCharacter.Default__BP_3rdPersonCharacter_C:CharMoveComp) Not registered. Aborting.
+[2023.09.21-14.29.03:748][ 20]LogActorComponent: UnregisterComponent: (/Game/BP_3rdPersonCharacter.Default__BP_3rdPersonCharacter_C:CharacterMesh0) Not registered. Aborting.
+[2023.09.21-14.29.03:769][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.09.21-14.29.03:838][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_3rdPersonCharacter.BP_3rdPersonCharacter
+[2023.09.21-14.29.03:838][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.29.03:838][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.09.21-14.29.04:119][ 20]LogViewport: Scene viewport resized to 988x587, mode Windowed.
+[2023.09.21-14.29.07:331][188]LogViewport: Scene viewport resized to 985x605, mode Windowed.
+[2023.09.21-14.29.07:438][190]LogViewport: Scene viewport resized to 515x262, mode Windowed.
+[2023.09.21-14.29.07:518][191]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.09.21-14.29.07:717][211]LogSlate: Window 'BP_3rdPersonCharacter' being destroyed
+[2023.09.21-14.29.27:620][  8]LogViewport: Scene viewport resized to 396x273, mode Windowed.
+[2023.09.21-14.29.31:918][261]Cmd: DELETE
+[2023.09.21-14.29.31:929][261]Cmd: ACTOR DELETE
+[2023.09.21-14.29.32:239][261]LogEditorActor: Deleted Actor: BP_LearningKit_PlayerCharacter_C
+[2023.09.21-14.29.32:257][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.21-14.29.32:260][261]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2023.09.21-14.29.35:065][513]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.21-14.29.35:092][513]BlueprintLog: Warning: Blueprint failed to compile:  ThirdPersonCharacter
+[2023.09.21-14.29.35:092][513]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.21-14.29.35:094][513]LogPlayLevel: [PlayLevel] Compiling BP_LearningKit_PlayerCharacter before play...
+[2023.09.21-14.29.35:167][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.09.21-14.29.35:168][513]LogPlayLevel: PlayLevel: Blueprint regeneration took 98 ms (1 blueprints)
+[2023.09.21-14.29.42:179][513]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.09.21-14.30.42:452][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_01/TEX_A_01_S.TEX_A_01_S (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:452][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_01/TEX_A_01_M.TEX_A_01_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:455][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_01/TEX_A_01_R.TEX_A_01_R (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:459][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_01/TEX_A_01_D_1.TEX_A_01_D_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:459][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_02/TEX_A_02_D_1.TEX_A_02_D_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:474][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_01/TEX_A_01_D_5.TEX_A_01_D_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:483][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_01/TEX_A_01_N.TEX_A_01_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:503][651]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_03) ...
+[2023.09.21-14.30.42:564][651]LogSkeletalMesh: Building Skeletal Mesh MESH_PC_03...
+[2023.09.21-14.30.42:603][651]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_03.MESH_PC_03
+[2023.09.21-14.30.42:617][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_04/TEX_A_04_M.TEX_A_04_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:620][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_02/TEX_A_02_S.TEX_A_02_S (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:621][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_02/TEX_A_02_M.TEX_A_02_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:621][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_02/TEX_A_02_R.TEX_A_02_R (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:636][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_02/TEX_A_02_D_3.TEX_A_02_D_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:645][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_02/TEX_A_02_N.TEX_A_02_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:683][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_04/TEX_A_04_D_1.TEX_A_04_D_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:714][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_04/TEX_A_04_R.TEX_A_04_R (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:716][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_04/TEX_A_04_S.TEX_A_04_S (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:730][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_04/TEX_A_04_N.TEX_A_04_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:736][651]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_04/TEX_A_04_D_3.TEX_A_04_D_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:786][652]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_03/TEX_T_03_D_2.TEX_T_03_D_2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.42:787][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.30.42:878][652]LogShaderCompilers: Display: ================================================
+[2023.09.21-14.30.42:878][652]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.21-14.30.42:878][652]LogShaderCompilers: Display: Total job queries 5,640, among them cache hits 80 (1.42%)
+[2023.09.21-14.30.42:878][652]LogShaderCompilers: Display: Tracking 5,545 distinct input hashes that result in 3,952 distinct outputs (71.27%)
+[2023.09.21-14.30.42:878][652]LogShaderCompilers: Display: RAM used: 15.38 MiB of 819.20 MiB budget. Usage: 1.88%
+[2023.09.21-14.30.42:878][652]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.21-14.30.42:878][652]LogShaderCompilers: Display: Shaders Compiled: 5,545
+[2023.09.21-14.30.42:878][652]LogShaderCompilers: Display: Jobs assigned 5,545, completed 5,545 (100%)
+[2023.09.21-14.30.42:878][652]LogShaderCompilers: Display: Average time worker was idle: 8.92 s
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Time job spent in pending queue: average 328.21 s, longest 660.95 s
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Job execution time: average 9.57 s, max 112.98 s
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Job life time (pending + execution): average 337.78 s, max 667.80
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Shader code size: average 11.064 KiB, min 140 B, max 154.367 KiB
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 707.07 s
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Jobs were issued in 736 batches (only local compilation was used), average 7.53 jobs/batch
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Average processing rate: 7.84 jobs/sec
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Total thread time: 5,320.532 s
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Total thread preprocess time: 139.726 s
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Percentage time preprocessing: 2.63%
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Effective parallelization: 7.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 35.21 sec, max 35.21 sec, min 35.21 sec)
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 29.82 sec, max 108.82 sec, min 2.59 sec)
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 11.98 sec, max 56.54 sec, min 0.63 sec)
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 11.78 sec, max 38.37 sec, min 0.46 sec)
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 9.34 sec, max 14.31 sec, min 2.91 sec)
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 10.82% of total time (compiled  384 times, average 1.50 sec, max 7.57 sec, min 0.14 sec)
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 10.31% of total time (compiled  128 times, average 4.29 sec, max 11.96 sec, min 0.79 sec)
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 9.06% of total time (compiled  128 times, average 3.76 sec, max 5.92 sec, min 2.52 sec)
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.93% of total time (compiled   90 times, average 3.51 sec, max 8.78 sec, min 0.41 sec)
+[2023.09.21-14.30.42:879][652]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.36% of total time (compiled   96 times, average 2.42 sec, max 6.03 sec, min 0.29 sec)
+[2023.09.21-14.30.42:880][652]LogShaderCompilers: Display: ================================================
+[2023.09.21-14.30.42:882][652]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/L_01/TEX_L_01_D_4.TEX_L_01_D_4 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:185][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_03/TEX_A_03_M.TEX_A_03_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:191][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_03/TEX_A_03_D_1.TEX_A_03_D_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:194][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_03/TEX_A_03_S.TEX_A_03_S (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:199][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_03/TEX_A_03_R.TEX_A_03_R (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:217][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_01/TEX_A_01_D_4.TEX_A_01_D_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:221][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/A_03/TEX_A_03_N.TEX_A_03_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:231][905]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_02) ...
+[2023.09.21-14.30.47:322][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/L_01/TEX_L_01_D_2.TEX_L_01_D_2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:385][905]LogSkeletalMesh: Building Skeletal Mesh MESH_PC_02...
+[2023.09.21-14.30.47:420][905]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_02.MESH_PC_02
+[2023.09.21-14.30.47:460][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_01/TEX_T_01_M.TEX_T_01_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:506][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_01/TEX_T_01_S.TEX_T_01_S (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:511][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_01/TEX_T_01_R.TEX_T_01_R (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:534][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_01/TEX_T_01_D_5.TEX_T_01_D_5 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:573][905]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_01/TEX_T_01_D_1.TEX_T_01_D_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.30.47:603][906]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.30.47:634][906]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_01/TEX_T_01_N.TEX_T_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.09.21-14.31.07:631][718]LogEditorTransaction: Undo Edit Skeletal Mesh Asset
+[2023.09.21-14.31.08:098][723]LogEditorTransaction: Undo Edit Skeletal Mesh Asset
+[2023.09.21-14.31.08:573][748]LogEditorTransaction: Undo Edit Skeletal Mesh Asset
+[2023.09.21-14.32.05:844][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.09.21-14.32.05:849][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-14.32.05:925][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.21-14.32.05:950][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.21-14.32.06:040][395]LogSavePackage: Moving output files for package: /Game/Main
+[2023.09.21-14.32.06:041][395]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/Main9C3F68F448889EA5759A77A1C3E870E4.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap'
+[2023.09.21-14.32.06:049][395]LogFileHelpers: Saving map 'Main' took 0.124
+[2023.09.21-14.32.06:049][395]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.32.06:078][395]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.32.06:100][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_3rdPersonCharacter" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_3rdPersonCharacter.uasset" SILENT=true
+[2023.09.21-14.32.06:116][395]LogSavePackage: Moving output files for package: /Game/BP_3rdPersonCharacter
+[2023.09.21-14.32.06:116][395]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/BP_3rdPersonCharacterB9C3910440C58B61D46ECE99CEFC64D5.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_3rdPersonCharacter.uasset'
+[2023.09.21-14.32.06:127][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 277 ms (total: 510 ms)
+[2023.09.21-14.32.06:130][395]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.21-14.32.06:130][395]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.09.21-14.32.06:130][395]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_3rdPersonCharacter.BP_3rdPersonCharacter
+[2023.09.21-14.32.08:390][618]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.21-14.32.08:395][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-14.32.08:396][618]BlueprintLog: Warning: Blueprint failed to compile:  ThirdPersonCharacter
+[2023.09.21-14.32.14:248][618]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.09.21-14.32.17:207][838]LogSlate: Window 'Message Log' being destroyed
+[2023.09.21-14.32.17:214][838]LogSlate: Window 'Message Log' being destroyed
+[2023.09.21-14.32.28:785][274]Cmd: TRANSACTION UNDO
+[2023.09.21-14.32.28:785][274]LogEditorTransaction: Undo Edit Auto Possess Player
+[2023.09.21-14.32.30:002][334]Cmd: TRANSACTION UNDO
+[2023.09.21-14.32.30:002][334]LogEditorTransaction: Undo Delete Elements
+[2023.09.21-14.32.30:302][335]LogViewport: Scene viewport resized to 396x273, mode Windowed.
+[2023.09.21-14.32.45:749][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.21-14.32.45:754][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-14.32.45:755][650]BlueprintLog: Warning: Blueprint failed to compile:  ThirdPersonCharacter
+[2023.09.21-14.32.48:765][650]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.09.21-14.32.50:996][812]LogSlate: Window 'Message Log' being destroyed
+[2023.09.21-14.32.51:002][812]LogSlate: Window 'Message Log' being destroyed
+[2023.09.21-14.32.54:526][115]BlueprintLog: New page: Compile BP_3rdPersonCharacter
+[2023.09.21-14.32.54:676][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.09.21-14.32.57:002][313]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.21-14.32.57:007][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-14.32.57:007][313]BlueprintLog: Warning: Blueprint failed to compile:  ThirdPersonCharacter
+[2023.09.21-14.32.59:527][313]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.09.21-14.32.59:547][313]PIE: New page: PIE session: Main (Sep 21, 2023, 4:32:59 AM)
+[2023.09.21-14.32.59:595][313]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.09.21-14.32.59:621][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025039s)
+[2023.09.21-14.32.59:621][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.025143s)
+[2023.09.21-14.32.59:637][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.09.21-14.32.59:664][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.32.59:664][313]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.09.21-14.32.59:665][313]LogAIModule: Creating AISystem for world Main
+[2023.09.21-14.32.59:665][313]LogPlayLevel: PIE: World Init took: (0.027194s)
+[2023.09.21-14.32.59:665][313]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.09.21-14.32.59:665][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-14.32.59:665][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-14.32.59:665][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-14.32.59:665][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-14.32.59:665][313]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.21-14.32.59:665][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-14.32.59:665][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.21-14.32.59:665][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-14.32.59:666][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-14.32.59:666][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-14.32.59:666][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-14.32.59:668][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.21-14.32.59:697][313]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.21-14.32.59:697][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-14.32.59:697][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-14.32.59:697][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-14.32.59:698][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.09.21-14.32.59:698][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.09.21-14.32.59:701][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.09.21-14.32.59:701][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.09.21-14.32.59:701][313]LogInit: FAudioDevice initialized with ID 3.
+[2023.09.21-14.32.59:701][313]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2023.09.21-14.32.59:701][313]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.09.21-14.32.59:704][313]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.09.21-14.32.59:717][313]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.21-09.32.59
+[2023.09.21-14.33.01:308][313]LogWorld: Bringing up level for play took: 1.603586
+[2023.09.21-14.33.01:311][313]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.09.21-14.33.01:336][313]PIE: Server logged in
+[2023.09.21-14.33.01:336][313]PIE: Play in editor total start time 4.329 seconds.
+[2023.09.21-14.33.09:212][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.33.09:212][  5]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.09.21-14.33.09:212][  5]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-14.33.09:215][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.33.09:220][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-14.33.09:225][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.33.09:241][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.33.09:243][  5]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.09.21-14.33.09:243][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.21-14.33.09:245][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.21-14.33.09:254][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.21-14.33.09:362][  6]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.09.21-14.33.19:601][867]LogViewport: Scene viewport resized to 396x273, mode Windowed.
+[2023.09.21-14.33.32:359][559]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2023.09.21-14.33.32:379][559]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2023.09.21-14.33.45:945][297]Cmd: DELETE
+[2023.09.21-14.33.45:946][297]Cmd: ACTOR DELETE
+[2023.09.21-14.33.45:952][297]LogEditorActor: Deleted Actor: PlayerStart
+[2023.09.21-14.33.45:971][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.09.21-14.33.45:976][297]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.09.21-14.33.55:132][ 74]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.21-14.33.55:138][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-14.33.55:138][ 74]PIE: New page: PIE session: Main (Sep 21, 2023, 4:33:55 AM)
+[2023.09.21-14.33.55:139][ 74]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.09.21-14.33.55:168][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028961s)
+[2023.09.21-14.33.55:168][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.029017s)
+[2023.09.21-14.33.55:183][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.09.21-14.33.55:186][ 74]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.33.55:186][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.09.21-14.33.55:187][ 74]LogAIModule: Creating AISystem for world Main
+[2023.09.21-14.33.55:187][ 74]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2023.09.21-14.33.55:187][ 74]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.09.21-14.33.55:187][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-14.33.55:187][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-14.33.55:187][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-14.33.55:187][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-14.33.55:187][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.21-14.33.55:187][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-14.33.55:187][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.21-14.33.55:187][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-14.33.55:187][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-14.33.55:187][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-14.33.55:187][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-14.33.55:190][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.21-14.33.55:218][ 74]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.21-14.33.55:218][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-14.33.55:218][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-14.33.55:218][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-14.33.55:219][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.09.21-14.33.55:219][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.09.21-14.33.55:221][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.09.21-14.33.55:221][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.09.21-14.33.55:221][ 74]LogInit: FAudioDevice initialized with ID 4.
+[2023.09.21-14.33.55:221][ 74]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2023.09.21-14.33.55:221][ 74]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.21-14.33.55:226][ 74]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.09.21-14.33.55:241][ 74]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.21-09.33.55
+[2023.09.21-14.33.56:814][ 74]LogWorld: Bringing up level for play took: 1.588196
+[2023.09.21-14.33.56:816][ 74]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.09.21-14.33.56:817][ 74]PIE: Server logged in
+[2023.09.21-14.33.56:818][ 74]PIE: Play in editor total start time 1.68 seconds.
+[2023.09.21-14.33.59:572][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.33.59:572][305]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.09.21-14.33.59:572][305]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-14.33.59:574][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.33.59:589][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-14.33.59:595][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.33.59:609][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.33.59:611][305]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.21-14.33.59:611][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.21-14.33.59:612][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.21-14.33.59:622][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.09.21-14.33.59:722][306]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.09.21-14.34.11:478][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.09.21-14.34.11:487][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-14.34.11:577][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.21-14.34.11:602][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.09.21-14.34.11:695][757]LogSavePackage: Moving output files for package: /Game/Main
+[2023.09.21-14.34.11:696][757]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/MainE9BF6099433BC84FD28712AC1AC97EA8.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap'
+[2023.09.21-14.34.11:704][757]LogFileHelpers: Saving map 'Main' took 0.128
+[2023.09.21-14.34.11:719][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_3rdPersonCharacter" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_3rdPersonCharacter.uasset" SILENT=true
+[2023.09.21-14.34.11:724][757]LogSavePackage: Moving output files for package: /Game/BP_3rdPersonCharacter
+[2023.09.21-14.34.11:725][757]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/BP_3rdPersonCharacter7A0CD3B549F19971D70922BCB3BE86FA.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_3rdPersonCharacter.uasset'
+[2023.09.21-14.34.11:733][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 245 ms (total: 756 ms)
+[2023.09.21-14.34.11:736][757]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.21-14.34.11:736][757]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.09.21-14.34.11:736][757]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_3rdPersonCharacter.BP_3rdPersonCharacter
+[2023.09.21-14.34.25:595][955]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.21-14.34.25:600][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-14.34.25:600][955]PIE: New page: PIE session: Main (Sep 21, 2023, 4:34:25 AM)
+[2023.09.21-14.34.25:600][955]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.09.21-14.34.25:626][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025599s)
+[2023.09.21-14.34.25:626][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.025644s)
+[2023.09.21-14.34.25:642][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.09.21-14.34.25:644][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.34.25:644][955]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.09.21-14.34.25:644][955]LogAIModule: Creating AISystem for world Main
+[2023.09.21-14.34.25:644][955]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2023.09.21-14.34.25:644][955]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.09.21-14.34.25:644][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-14.34.25:645][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-14.34.25:645][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-14.34.25:645][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-14.34.25:645][955]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.21-14.34.25:645][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-14.34.25:645][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.21-14.34.25:645][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-14.34.25:645][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-14.34.25:645][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-14.34.25:645][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-14.34.25:647][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.21-14.34.25:675][955]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.21-14.34.25:675][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-14.34.25:675][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-14.34.25:675][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-14.34.25:676][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.09.21-14.34.25:676][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.09.21-14.34.25:679][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.09.21-14.34.25:679][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.09.21-14.34.25:679][955]LogInit: FAudioDevice initialized with ID 5.
+[2023.09.21-14.34.25:679][955]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2023.09.21-14.34.25:679][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.09.21-14.34.25:683][955]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.09.21-14.34.25:697][955]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.21-09.34.25
+[2023.09.21-14.34.27:287][955]LogWorld: Bringing up level for play took: 1.603734
+[2023.09.21-14.34.27:289][955]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.09.21-14.34.27:290][955]PIE: Server logged in
+[2023.09.21-14.34.27:292][955]PIE: Play in editor total start time 1.692 seconds.
+[2023.09.21-14.34.31:332][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.34.31:332][ 65]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.09.21-14.34.31:333][ 65]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-14.34.31:335][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.34.31:341][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-14.34.31:347][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.34.31:361][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.34.31:361][ 65]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.09.21-14.34.31:361][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.21-14.34.31:364][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.21-14.34.31:377][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.09.21-14.34.31:503][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.09.21-14.35.13:465][156]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.09.21-14.35.13:465][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.35.13:466][156]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.09.21-14.35.55:484][ 58]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.09.21-14.35.55:484][ 58]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.09.21-14.36.54:846][387]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.21-14.37.29:199][362]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.09.21-14.37.29:205][362]LogBlueprint: Error: [AssetLog] D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Reset Orientation and Position . Please refresh node or break links to remove pin.
+[2023.09.21-14.37.29:205][362]LogBlueprint: Error: [AssetLog] D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Could not find a function named "ResetOrientationAndPosition" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Reset Orientation and Position
+[2023.09.21-14.37.29:383][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.09.21-14.38.15:524][947]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.09.21-14.38.15:691][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.09.21-14.38.25:894][710]LogViewport: Scene viewport resized to 396x273, mode Windowed.
+[2023.09.21-14.38.27:463][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.21-14.38.27:469][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-14.38.27:469][793]PIE: New page: PIE session: Main (Sep 21, 2023, 4:38:27 AM)
+[2023.09.21-14.38.27:469][793]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.09.21-14.38.27:497][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028135s)
+[2023.09.21-14.38.27:497][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.028171s)
+[2023.09.21-14.38.27:515][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.09.21-14.38.27:526][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.38.27:526][793]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.09.21-14.38.27:527][793]LogAIModule: Creating AISystem for world Main
+[2023.09.21-14.38.27:527][793]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2023.09.21-14.38.27:527][793]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.09.21-14.38.27:527][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-14.38.27:527][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-14.38.27:527][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-14.38.27:528][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-14.38.27:528][793]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.21-14.38.27:528][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-14.38.27:528][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.21-14.38.27:528][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-14.38.27:528][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-14.38.27:528][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-14.38.27:528][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-14.38.27:530][793]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.21-14.38.27:559][793]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.21-14.38.27:559][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-14.38.27:559][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-14.38.27:559][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-14.38.27:561][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.09.21-14.38.27:561][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.09.21-14.38.27:563][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.09.21-14.38.27:563][793]LogInit: FAudioDevice initialized with ID 6.
+[2023.09.21-14.38.27:563][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.09.21-14.38.27:563][793]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2023.09.21-14.38.27:563][793]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.09.21-14.38.27:567][793]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.09.21-14.38.27:582][793]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.21-09.38.27
+[2023.09.21-14.38.29:178][793]LogWorld: Bringing up level for play took: 1.610050
+[2023.09.21-14.38.29:179][793]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.09.21-14.38.29:181][793]PIE: Server logged in
+[2023.09.21-14.38.29:182][793]PIE: Play in editor total start time 1.714 seconds.
+[2023.09.21-14.38.44:202][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.38.44:203][ 79]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.09.21-14.38.44:203][ 79]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-14.38.44:205][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.38.44:211][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-14.38.44:216][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.38.44:232][ 79]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.21-14.38.44:233][ 79]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.09.21-14.38.44:233][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.21-14.38.44:234][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.21-14.38.44:237][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.38.44:244][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.09.21-14.38.44:358][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.09.21-14.38.44:405][ 80]LogViewport: Scene viewport resized to 396x273, mode Windowed.
+[2023.09.21-14.38.50:340][409]LogViewport: Scene viewport resized to 396x273, mode Windowed.
+[2023.09.21-14.38.53:554][581]LogViewport: Scene viewport resized to 396x273, mode Windowed.
+[2023.09.21-14.38.54:251][622]Cmd: DELETE
+[2023.09.21-14.38.54:251][622]Cmd: ACTOR DELETE
+[2023.09.21-14.38.54:261][622]LogEditorActor: Deleted Actor: BP_LearningKit_PlayerCharacter_C
+[2023.09.21-14.38.54:293][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.09.21-14.38.54:300][622]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: ================================================
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Total job queries 5,749, among them cache hits 155 (2.70%)
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Tracking 5,578 distinct input hashes that result in 3,955 distinct outputs (70.90%)
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: RAM used: 15.46 MiB of 819.20 MiB budget. Usage: 1.89%
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Shaders Compiled: 5,578
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Jobs assigned 5,581, completed 5,578 (99.95%)
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Average time worker was idle: 17.58 s
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Time job spent in pending queue: average 326.09 s, longest 660.95 s
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Job execution time: average 9.51 s, max 112.98 s
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Job life time (pending + execution): average 335.78 s, max 667.80
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Shader code size: average 11.014 KiB, min 140 B, max 154.367 KiB
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 712.44 s
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Jobs were issued in 772 batches (only local compilation was used), average 7.23 jobs/batch
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Average processing rate: 7.83 jobs/sec
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Total thread time: 5,340.568 s
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Total thread preprocess time: 141.722 s
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Percentage time preprocessing: 2.65%
+[2023.09.21-14.39.45:101][746]LogShaderCompilers: Display: Effective parallelization: 7.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 35.21 sec, max 35.21 sec, min 35.21 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 29.82 sec, max 108.82 sec, min 2.59 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 11.98 sec, max 56.54 sec, min 0.63 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 11.78 sec, max 38.37 sec, min 0.46 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 9.34 sec, max 14.31 sec, min 2.91 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 10.78% of total time (compiled  384 times, average 1.50 sec, max 7.57 sec, min 0.14 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 10.27% of total time (compiled  128 times, average 4.29 sec, max 11.96 sec, min 0.79 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 9.02% of total time (compiled  128 times, average 3.76 sec, max 5.92 sec, min 2.52 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.91% of total time (compiled   90 times, average 3.51 sec, max 8.78 sec, min 0.41 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.35% of total time (compiled   96 times, average 2.42 sec, max 6.03 sec, min 0.29 sec)
+[2023.09.21-14.39.45:102][746]LogShaderCompilers: Display: ================================================
+[2023.09.21-14.39.47:255][839]LogMaterial: Display: Material /Game/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO.MAT_PROMO needed to have new flag set bUsedWithSkeletalMesh !
+[2023.09.21-14.39.47:288][839]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/Environment_Textures/TEX_PROMO.TEX_PROMO (BGRA8, 2452x1379 x1x1x1) (Required Memory Estimate: 98.952263 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.09:972][377]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_02/TEX_T_02_M.TEX_T_02_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.09:985][377]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_02/TEX_T_02_S.TEX_T_02_S (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.10:044][377]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_02/TEX_T_02_R.TEX_T_02_R (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.10:052][377]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_02/TEX_T_02_D_1.TEX_T_02_D_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.10:107][377]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_02/TEX_T_02_N.TEX_T_02_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.18:434][790]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/T_03/TEX_T_03_D_3.TEX_T_03_D_3 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.41:251][531]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Tiger_ARM.T_EnvTile_Tiger_ARM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.41:412][534]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Tiger_BC.T_EnvTile_Tiger_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.41:690][543]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Tiger_RGB.T_EnvTile_Tiger_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.40.56:459][548]LogTexture: Display: Building textures: /Game/SCK_Casual01/Textures/L_01/TEX_L_01_D_5.TEX_L_01_D_5 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.21-14.41.15:123][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.09.21-14.41.15:136][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-14.41.15:214][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.21-14.41.15:241][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.21-14.41.15:329][786]LogSavePackage: Moving output files for package: /Game/Main
+[2023.09.21-14.41.15:329][786]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/MainDD089E39482FF02D248645A98F57F138.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap'
+[2023.09.21-14.41.15:336][786]LogFileHelpers: Saving map 'Main' took 0.123
+[2023.09.21-14.41.15:337][786]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.41.15:383][786]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter
+[2023.09.21-14.41.15:384][786]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/ThirdPersonCharacter27A99DA5433CE0CE3E60668406DD3A3C.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset'
+[2023.09.21-14.41.15:392][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_3rdPersonCharacter" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_3rdPersonCharacter.uasset" SILENT=true
+[2023.09.21-14.41.15:399][786]LogSavePackage: Moving output files for package: /Game/BP_3rdPersonCharacter
+[2023.09.21-14.41.15:399][786]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/BP_3rdPersonCharacter5CD8D9654505C85F442680ADBEC2EB5A.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_3rdPersonCharacter.uasset'
+[2023.09.21-14.41.15:411][786]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO
+[2023.09.21-14.41.15:411][786]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/MAT_PROMOCB2F6EDB4DCAE59F0B4D169EDD0E99EF.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO.uasset'
+[2023.09.21-14.41.15:421][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms (total: 1.03 sec)
+[2023.09.21-14.41.15:425][786]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.21-14.41.15:425][786]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.09.21-14.41.15:425][786]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.09.21-14.41.15:425][786]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_3rdPersonCharacter.BP_3rdPersonCharacter
+[2023.09.21-14.41.15:425][786]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO.MAT_PROMO
+[2023.09.21-14.41.19:587][144]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.21-14.41.19:594][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-14.41.19:594][144]PIE: New page: PIE session: Main (Sep 21, 2023, 4:41:19 AM)
+[2023.09.21-14.41.19:594][144]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.09.21-14.41.19:621][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027888s)
+[2023.09.21-14.41.19:621][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.027936s)
+[2023.09.21-14.41.19:638][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.09.21-14.41.19:639][144]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.21-14.41.19:639][144]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.09.21-14.41.19:639][144]LogAIModule: Creating AISystem for world Main
+[2023.09.21-14.41.19:639][144]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2023.09.21-14.41.19:640][144]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.21-14.41.19:640][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-14.41.19:640][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-14.41.19:640][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-14.41.19:640][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-14.41.19:640][144]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.21-14.41.19:640][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-14.41.19:640][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.21-14.41.19:640][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-14.41.19:640][144]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-14.41.19:640][144]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-14.41.19:640][144]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-14.41.19:643][144]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.21-14.41.19:671][144]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.21-14.41.19:671][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-14.41.19:671][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-14.41.19:671][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-14.41.19:672][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.09.21-14.41.19:672][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.09.21-14.41.19:675][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.09.21-14.41.19:675][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.09.21-14.41.19:675][144]LogInit: FAudioDevice initialized with ID 7.
+[2023.09.21-14.41.19:675][144]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.09.21-14.41.19:675][144]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.09.21-14.41.19:679][144]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.09.21-14.41.19:691][144]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.21-09.41.19
+[2023.09.21-14.41.21:267][144]LogWorld: Bringing up level for play took: 1.587345
+[2023.09.21-14.41.21:269][144]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.09.21-14.41.21:271][144]PIE: Server logged in
+[2023.09.21-14.41.21:271][144]PIE: Play in editor total start time 1.678 seconds.
+[2023.09.21-14.41.32:412][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.41.32:412][138]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.09.21-14.41.32:413][138]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-14.41.32:414][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.41.32:419][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-14.41.32:424][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-14.41.32:442][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-14.41.32:443][138]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.09.21-14.41.32:443][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.21-14.41.32:446][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.21-14.41.32:455][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.21-14.41.32:488][139]LogPlayLevel: Display: Destroying online subsystem :Context_21
