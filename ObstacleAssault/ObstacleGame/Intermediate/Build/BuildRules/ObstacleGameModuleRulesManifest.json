@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\Source\\ObstacleGame\\ObstacleGame.Build.cs",
+		"D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\Source\\ObstacleGame.Target.cs",
+		"D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\Source\\ObstacleGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.0"
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Intermediate\Build\Win64\x64\ObstacleGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleGame\MovingPlatform.gen.cpp.obj"
+"D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleGame\ObstacleGame.init.gen.cpp.obj"
+"D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleGame\MovingPlatform.cpp.obj"
+"D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleGame\ObstacleGame.cpp.obj"
+"D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleGame\Default.rc2.res"
+/OUT:"D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleGame\UnrealEditor-ObstacleGame.lib"

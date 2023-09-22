@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\Source\\ObstacleGame\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\.vscode\\compileCommands_Default\\ObstacleGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\Source\\ObstacleGame\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\.vscode\\compileCommands_Default\\ObstacleGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\Source\\ObstacleGame\\ObstacleGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\.vscode\\compileCommands_Default\\ObstacleGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\Source\\ObstacleGame\\ObstacleGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\.vscode\\compileCommands_Default\\ObstacleGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\Source\\ObstacleGame\\ObstacleGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Development\\UE5-Course-GameDevTv\\ObstacleAssault\\ObstacleGame\\.vscode\\compileCommands_Default\\ObstacleGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	}
+]
