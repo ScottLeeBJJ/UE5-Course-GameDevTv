@@ -1143,3 +1143,122 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.25-20.47.09:933][714]LogShaderCompilers: Display: ================================================
 [2023.09.25-20.47.09:939][714]LogViewport: Scene viewport resized to 396x273, mode Windowed.
 [2023.09.25-20.47.10:411][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.25-20.47.48:355][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.09.25-20.47.48:474][725]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.028219 seconds
+[2023.09.25-20.47.48:845][725]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2023.09.25-20.47.48:845][725]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/Main_Auto117FBAFF648B0FD3322C5A29757D213CA.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/Autosaves/Game/Main_Auto1.umap'
+[2023.09.25-20.47.48:891][725]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/Autosaves/Game/Main_Auto1.umap is in the /Temp path, will not scan.
+[2023.09.25-20.47.48:893][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.579
+[2023.09.25-20.47.48:893][725]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.579
+[2023.09.25-21.33.53:357][220]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.283 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13598 files in 16825 folders with total size 485 MiB.
+[2023.09.25-21.53.26:728][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.09.25-21.53.26:798][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.25-21.53.26:882][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.25-21.53.27:020][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.25-21.53.27:171][903]LogSavePackage: Moving output files for package: /Game/Main
+[2023.09.25-21.53.27:171][903]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/MainE6CDC90D406FFC9BD1DF74A8074E21AE.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap'
+[2023.09.25-21.53.27:243][903]LogFileHelpers: Saving map 'Main' took 0.373
+[2023.09.25-21.53.27:263][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 449 ms
+[2023.09.25-21.53.27:274][903]AssetCheck: New page: Asset Save: Main
+[2023.09.25-21.53.27:275][903]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.09.25-21.54.15:548][159]LogSlate: Took 0.069264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: ================================================
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: Total job queries 160, among them cache hits 40 (25.00%)
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: Tracking 120 distinct input hashes that result in 73 distinct outputs (60.83%)
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: RAM used: 278.85 KiB of 819.20 MiB budget. Usage: 0.03%
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.25-21.54.23:022][643]LogShaderCompilers: Display: ================================================
+[2023.09.25-21.54.35:275][806]LogEditorViewport: Clicking Background
+[2023.09.25-22.10.30:561][964]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.09.25-22.13.10:404][721]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_0.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_0.exp
+[2023.09.25-22.13.10:625][722]LogClass: UPackage /Script/ObstacleGame Reload.
+[2023.09.25-22.13.10:625][722]LogClass: UClass MovingPlatform Reload.
+[2023.09.25-22.13.10:625][722]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleGame for reload, assuming new or modified class
+[2023.09.25-22.13.10:655][722]Re-instancing MovingPlatform after reload.
+[2023.09.25-22.13.11:121][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.09.25-22.13.11:201][723]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.09.25-22.13.11:201][723]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.09.25-22.16.10:499][260]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.09.25-22.16.20:823][180]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.09.25-22.16.20:823][180]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.09.25-22.17.29:297][633]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.09.25-22.17.39:920][949]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_1.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_1.exp
+[2023.09.25-22.17.40:276][950]LogClass: UPackage /Script/ObstacleGame Reload.
+[2023.09.25-22.17.40:276][950]LogClass: UClass MovingPlatform Reload.
+[2023.09.25-22.17.40:276][950]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleGame for reload, assuming new or modified class
+[2023.09.25-22.17.40:284][950]Re-instancing MovingPlatform after reload.
+[2023.09.25-22.17.40:325][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.09.25-22.17.40:543][951]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.09.25-22.17.40:543][951]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.09.25-22.18.40:851][566]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.25-22.18.40:977][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.25-22.18.41:062][566]PIE: New page: PIE session: Main (Sep 25, 2023, 12:18:41 PM)
+[2023.09.25-22.18.41:212][566]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.09.25-22.18.41:212][566]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.09.25-22.18.41:228][566]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.09.25-22.18.41:425][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196833s)
+[2023.09.25-22.18.41:425][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.197234s)
+[2023.09.25-22.18.41:441][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.09.25-22.18.41:459][566]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.25-22.18.41:472][566]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.09.25-22.18.41:473][566]LogAIModule: Creating AISystem for world Main
+[2023.09.25-22.18.41:493][566]LogPlayLevel: PIE: World Init took: (0.035117s)
+[2023.09.25-22.18.41:512][566]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.09.25-22.18.41:512][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.25-22.18.41:512][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.25-22.18.41:512][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.25-22.18.41:512][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.25-22.18.41:512][566]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.25-22.18.41:512][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.25-22.18.41:512][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.25-22.18.41:512][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.25-22.18.41:513][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.25-22.18.41:513][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.25-22.18.41:513][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.25-22.18.41:514][566]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.25-22.18.41:541][566]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.25-22.18.41:541][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.25-22.18.41:541][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.25-22.18.41:541][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.25-22.18.41:543][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.09.25-22.18.41:543][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.09.25-22.18.41:545][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.09.25-22.18.41:545][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.09.25-22.18.41:545][566]LogInit: FAudioDevice initialized with ID 2.
+[2023.09.25-22.18.41:545][566]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2023.09.25-22.18.41:545][566]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.09.25-22.18.41:591][566]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.09.25-22.18.41:622][566]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.25-17.18.41
+[2023.09.25-22.18.43:137][566]LogWorld: Bringing up level for play took: 1.546126
+[2023.09.25-22.18.43:139][566]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.09.25-22.18.43:384][566]PIE: Server logged in
+[2023.09.25-22.18.43:386][566]PIE: Play in editor total start time 2.517 seconds.
+[2023.09.25-22.18.51:646][369]LogCore: Display: Tracing Screenshot "ScreenShot00000" taken with size: 1936 x 1048
+[2023.09.25-22.18.58:581][ 17]LogEditorViewport: Clicking Background
+[2023.09.25-22.18.59:930][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.25-22.18.59:930][145]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.09.25-22.18.59:931][145]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.25-22.18.59:987][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.25-22.19.00:001][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.25-22.19.00:013][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.25-22.19.00:050][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.25-22.19.00:053][145]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.09.25-22.19.00:096][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.25-22.19.00:121][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.25-22.19.00:167][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.09.25-22.19.00:200][146]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.09.25-22.19.26:920][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.09.25-22.21.40:110][776]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.09.25-22.21.53:287][ 55]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_2.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_2.exp
+[2023.09.25-22.21.53:414][ 59]LogClass: UPackage /Script/ObstacleGame Reload.
+[2023.09.25-22.21.53:414][ 59]LogClass: UClass MovingPlatform Reload.
+[2023.09.25-22.21.53:414][ 59]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleGame for reload, assuming new or modified class
+[2023.09.25-22.21.53:420][ 59]Re-instancing MovingPlatform after reload.
+[2023.09.25-22.21.53:514][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.25-22.21.53:617][ 60]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.09.25-22.21.53:618][ 60]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.09.25-22.22.12:461][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
