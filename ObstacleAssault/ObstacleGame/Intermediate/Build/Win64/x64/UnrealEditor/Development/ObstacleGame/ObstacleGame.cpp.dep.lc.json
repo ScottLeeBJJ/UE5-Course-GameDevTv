@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\development\\ue5-course-gamedevtv\\obstacleassault\\obstaclegame\\source\\obstaclegame\\obstaclegame.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\development\\ue5-course-gamedevtv\\obstacleassault\\obstaclegame\\intermediate\\build\\win64\\x64\\obstaclegameeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\development\\ue5-course-gamedevtv\\obstacleassault\\obstaclegame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstaclegame\\definitions.obstaclegame.h",
+            "d:\\development\\ue5-course-gamedevtv\\obstacleassault\\obstaclegame\\source\\obstaclegame\\obstaclegame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
