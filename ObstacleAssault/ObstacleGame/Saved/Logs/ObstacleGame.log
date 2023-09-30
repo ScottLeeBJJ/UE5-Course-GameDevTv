@@ -1614,3 +1614,61 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.30-13.11.53:962][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
 [2023.09.30-13.11.53:989][476]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
 [2023.09.30-13.11.53:989][476]LogLiveCoding: Display: Live coding succeeded
+[2023.09.30-13.17.02:093][403]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.09.30-13.17.57:811][816]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_5.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_5.exp
+[2023.09.30-13.17.58:224][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.09.30-13.17.58:363][818]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2023.09.30-13.17.58:363][818]LogLiveCoding: Display: Live coding succeeded
+[2023.09.30-13.18.00:574][891]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.30-13.18.00:581][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-13.18.00:581][891]PIE: New page: PIE session: Main (Sep 30, 2023, 3:18:00 AM)
+[2023.09.30-13.18.00:581][891]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.09.30-13.18.00:606][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025233s)
+[2023.09.30-13.18.00:606][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.025279s)
+[2023.09.30-13.18.00:610][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.09.30-13.18.00:610][891]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.30-13.18.00:610][891]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.09.30-13.18.00:611][891]LogAIModule: Creating AISystem for world Main
+[2023.09.30-13.18.00:611][891]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2023.09.30-13.18.00:611][891]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.09.30-13.18.00:611][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-13.18.00:611][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-13.18.00:611][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-13.18.00:611][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-13.18.00:611][891]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.30-13.18.00:611][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-13.18.00:611][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.30-13.18.00:611][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-13.18.00:612][891]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-13.18.00:612][891]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-13.18.00:612][891]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-13.18.00:615][891]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.30-13.18.00:640][891]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.09.30-13.18.00:641][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-13.18.00:641][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-13.18.00:641][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-13.18.00:641][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.09.30-13.18.00:641][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.09.30-13.18.00:644][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.09.30-13.18.00:644][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.09.30-13.18.00:644][891]LogInit: FAudioDevice initialized with ID 9.
+[2023.09.30-13.18.00:644][891]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main'.
+[2023.09.30-13.18.00:644][891]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.09.30-13.18.00:647][891]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.09.30-13.18.00:660][891]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.30-08.18.00
+[2023.09.30-13.18.02:313][891]LogWorld: Bringing up level for play took: 1.665825
+[2023.09.30-13.18.02:316][891]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.09.30-13.18.02:318][891]PIE: Server logged in
+[2023.09.30-13.18.02:319][891]PIE: Play in editor total start time 1.739 seconds.
+[2023.09.30-13.18.14:506][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-13.18.14:506][976]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.09.30-13.18.14:506][976]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-13.18.14:508][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-13.18.14:511][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-13.18.14:515][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-13.18.14:518][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-13.18.14:518][976]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.09.30-13.18.14:518][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.09.30-13.18.14:521][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.09.30-13.18.14:529][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.09.30-13.18.14:613][978]LogPlayLevel: Display: Destroying online subsystem :Context_10
