@@ -2168,3 +2168,77 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.03-13.35.25:830][668]LogLiveCoding: Display: Live coding succeeded
 [2023.10.03-13.35.29:833][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2023.10.03-13.36.52:440][395]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.348 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13804 files in 17036 folders with total size 490 MiB.
+[2023.10.03-13.49.32:267][677]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.03-13.50.55:704][927]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_5.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_5.exp
+[2023.10.03-13.50.56:997][930]LogClass: UPackage /Script/ObstacleGame Reload.
+[2023.10.03-13.50.56:997][930]LogClass: UClass MovingPlatform Reload.
+[2023.10.03-13.50.56:997][930]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleGame for reload, assuming new or modified class
+[2023.10.03-13.50.57:202][930]Re-instancing MovingPlatform after reload.
+[2023.10.03-13.50.57:395][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.03-13.50.57:618][931]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.10.03-13.50.57:618][931]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.10.03-13.51.21:140][865]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.03-13.51.21:148][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-13.51.21:148][865]PIE: New page: PIE session: Main (Oct 3, 2023, 3:51:21 AM)
+[2023.10.03-13.51.21:149][865]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.10.03-13.51.21:176][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027146s)
+[2023.10.03-13.51.21:176][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.027200s)
+[2023.10.03-13.51.21:180][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.10.03-13.51.21:185][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-13.51.21:185][865]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.03-13.51.21:200][865]LogAIModule: Creating AISystem for world Main
+[2023.10.03-13.51.21:201][865]LogPlayLevel: PIE: World Init took: (0.016041s)
+[2023.10.03-13.51.21:201][865]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.10.03-13.51.21:201][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-13.51.21:201][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-13.51.21:201][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-13.51.21:201][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-13.51.21:201][865]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.03-13.51.21:201][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.03-13.51.21:201][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.03-13.51.21:201][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-13.51.21:202][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-13.51.21:202][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-13.51.21:202][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-13.51.21:222][865]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-13.51.21:231][865]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.10.03-13.51.21:231][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-13.51.21:231][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-13.51.21:231][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-13.51.21:231][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.10.03-13.51.21:233][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.10.03-13.51.21:234][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.10.03-13.51.21:234][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.10.03-13.51.21:234][865]LogInit: FAudioDevice initialized with ID 7.
+[2023.10.03-13.51.21:235][865]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.10.03-13.51.21:235][865]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.03-13.51.21:238][865]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.03-13.51.21:250][865]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.03-08.51.21
+[2023.10.03-13.51.22:782][865]LogWorld: Bringing up level for play took: 1.543160
+[2023.10.03-13.51.22:806][865]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.10.03-13.51.22:808][865]PIE: Server logged in
+[2023.10.03-13.51.22:809][865]PIE: Play in editor total start time 1.661 seconds.
+[2023.10.03-13.51.25:273][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.51.25:273][ 63]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.10.03-13.51.25:273][ 63]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-13.51.25:274][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.51.25:386][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-13.51.25:389][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.51.25:414][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.51.25:416][ 63]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.03-13.51.25:416][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.03-13.51.25:477][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.03-13.51.25:486][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.03-13.51.25:518][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.10.03-13.57.11:015][282]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.03-13.58.10:136][ 59]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_6.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_6.exp
+[2023.10.03-13.58.10:944][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.10.03-13.58.10:971][ 62]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2023.10.03-13.58.10:971][ 62]LogLiveCoding: Display: Live coding succeeded
+[2023.10.03-13.58.18:415][ 96]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.03-13.59.19:350][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.03-13.59.20:940][896]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_7.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_7.exp
+[2023.10.03-13.59.21:364][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.03-13.59.21:497][898]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2023.10.03-13.59.21:497][898]LogLiveCoding: Display: Live coding succeeded
+[2023.10.03-13.59.25:336][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
