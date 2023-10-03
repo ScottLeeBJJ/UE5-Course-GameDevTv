@@ -2167,3 +2167,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.03-13.35.25:830][668]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
 [2023.10.03-13.35.25:830][668]LogLiveCoding: Display: Live coding succeeded
 [2023.10.03-13.35.29:833][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.10.03-13.36.52:440][395]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.348 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13804 files in 17036 folders with total size 490 MiB.
