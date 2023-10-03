@@ -2363,3 +2363,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.03-14.18.48:825][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
 [2023.10.03-14.18.48:860][584]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2023.10.03-14.18.53:426][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.10.03-14.36.52:319][448]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.227 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13804 files in 17036 folders with total size 490 MiB.
+[2023.10.03-15.36.51:350][244]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.258 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13804 files in 17036 folders with total size 490 MiB.
