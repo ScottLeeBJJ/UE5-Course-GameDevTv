@@ -1159,3 +1159,1011 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.03-13.08.15:882][715]Generating VisualStudioCode project files:
 [2023.10.03-13.08.15:983][715]Discovering modules, targets and source code for project...
 [2023.10.03-13.08.23:426][715]Binding IntelliSense data...
+[2023.10.03-13.09.13:426][715]Binding IntelliSense data... 75%
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Bridge\Intermediate\Build\Win64\x64\UnrealEditor\Development\Bridge\Definitions.Bridge.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Bridge\Intermediate\Build\Win64\x64\UnrealEditor\Development\MegascansPlugin\Definitions.MegascansPlugin.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\EditorScriptingUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorScriptingUtilities\Definitions.EditorScriptingUtilities.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Paper2D\Definitions.Paper2D.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Paper2DEditor\Definitions.Paper2DEditor.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\x64\UnrealEditor\Development\PaperSpriteSheetImporter\Definitions.PaperSpriteSheetImporter.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\x64\UnrealEditor\Development\PaperTiledImporter\Definitions.PaperTiledImporter.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\x64\UnrealEditor\Development\SmartSnapping\Definitions.SmartSnapping.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\AI\AISupport\Intermediate\Build\Win64\x64\UnrealEditor\Development\AISupportModule\Definitions.AISupportModule.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\AI\EnvironmentQueryEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\EnvironmentQueryEditor\Definitions.EnvironmentQueryEditor.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\AnimationData\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationData\Definitions.AnimationData.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\ControlRig\Intermediate\Build\Win64\x64\UnrealEditor\Development\ControlRig\Definitions.ControlRig.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\ControlRig\Intermediate\Build\Win64\x64\UnrealEditor\Development\ControlRigDeveloper\Definitions.ControlRigDeveloper.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\ControlRig\Intermediate\Build\Win64\x64\UnrealEditor\Development\ControlRigEditor\Definitions.ControlRigEditor.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\RigVM\Intermediate\Build\Win64\x64\UnrealEditor\Development\RigVM\Definitions.RigVM.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\RigVM\Intermediate\Build\Win64\x64\UnrealEditor\Development\RigVMDeveloper\Definitions.RigVMDeveloper.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\RigVM\Intermediate\Build\Win64\x64\UnrealEditor\Development\RigVMEditor\Definitions.RigVMEditor.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\PythonScriptPluginPreload\Definitions.PythonScriptPluginPreload.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\PythonScriptPlugin\Definitions.PythonScriptPlugin.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\ContentBrowser\ContentBrowserFileDataSource\Intermediate\Build\Win64\x64\UnrealEditor\Development\CBFileDataSource\Definitions.CBFileDataSource.h"
+[2023.10.03-13.09.13:527][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\MovieScene\LevelSequenceEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\LevelSequenceEditor\Definitions.LevelSequenceEditor.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\MovieScene\SequencerScripting\Intermediate\Build\Win64\x64\UnrealEditor\Development\SequencerScripting\Definitions.SequencerScripting.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\MovieScene\SequencerScripting\Intermediate\Build\Win64\x64\UnrealEditor\Development\SequencerScriptingEditor\Definitions.SequencerScriptingEditor.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\PropertyAccess\Intermediate\Build\Win64\x64\UnrealEditor\Development\PropertyAccessEditor\Definitions.PropertyAccessEditor.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\AnimationModifierLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationModifierLibrary\Definitions.AnimationModifierLibrary.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\BlendSpaceMotionAnalysis\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlendSpaceMotionAnalysis\Definitions.BlendSpaceMotionAnalysis.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\ControlRigSpline\Intermediate\Build\Win64\x64\UnrealEditor\Development\ControlRigSpline\Definitions.ControlRigSpline.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\IKRig\Intermediate\Build\Win64\x64\UnrealEditor\Development\IKRig\Definitions.IKRig.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\IKRig\Intermediate\Build\Win64\x64\UnrealEditor\Development\IKRigDeveloper\Definitions.IKRigDeveloper.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Animation\IKRig\Intermediate\Build\Win64\x64\UnrealEditor\Development\IKRigEditor\Definitions.IKRigEditor.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\FullBodyIK\Intermediate\Build\Win64\x64\UnrealEditor\Development\FullBodyIK\Definitions.FullBodyIK.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\FullBodyIK\Intermediate\Build\Win64\x64\UnrealEditor\Development\PBIK\Definitions.PBIK.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Cameras\CameraShakePreviewer\Intermediate\Build\Win64\x64\UnrealEditor\Development\CameraShakePreviewer\Definitions.CameraShakePreviewer.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Cameras\GameplayCameras\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayCameras\Definitions.GameplayCameras.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\MovieScene\TemplateSequence\Intermediate\Build\Win64\x64\UnrealEditor\Development\TemplateSequence\Definitions.TemplateSequence.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\MovieScene\TemplateSequence\Intermediate\Build\Win64\x64\UnrealEditor\Development\TemplateSequenceEditor\Definitions.TemplateSequenceEditor.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Compression\OodleNetwork\Intermediate\Build\Win64\x64\UnrealEditor\Development\OodleNetworkPlugin\Definitions.OodleNetworkPlugin.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\AnimationSharing\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationSharing\Definitions.AnimationSharing.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\AnimationSharing\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationSharingEd\Definitions.AnimationSharingEd.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\SignificanceManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SignificanceManager\Definitions.SignificanceManager.h"
+[2023.10.03-13.09.13:628][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\CLionSourceCodeAccess\Intermediate\Build\Win64\x64\UnrealEditor\Development\CLionSCA\Definitions.CLionSCA.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\DumpGPUServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\DumpGPUServices\Definitions.DumpGPUServices.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\GitSourceControl\Intermediate\Build\Win64\x64\UnrealEditor\Development\GitSourceControl\Definitions.GitSourceControl.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\N10XSourceCodeAccess\Intermediate\Build\Win64\x64\UnrealEditor\Development\10XSCA\Definitions.10XSCA.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\PerforceSourceControl\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerforceSourceControl\Definitions.PerforceSourceControl.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\PixWinPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\PixWinPlugin\Definitions.PixWinPlugin.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\PlasticSourceControl\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlasticSourceControl\Definitions.PlasticSourceControl.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\PluginUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\PluginUtils\Definitions.PluginUtils.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\PropertyAccessNode\Intermediate\Build\Win64\x64\UnrealEditor\Development\PropertyAccessNode\Definitions.PropertyAccessNode.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\RenderDocPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderDocPlugin\Definitions.RenderDocPlugin.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\RiderSourceCodeAccess\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderSourceCodeAccess\Definitions.RiderSourceCodeAccess.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\SubversionSourceControl\Intermediate\Build\Win64\x64\UnrealEditor\Development\SubversionSourceControl\Definitions.SubversionSourceControl.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\TextureFormatOodle\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureFormatOodle\Definitions.TextureFormatOodle.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\TraceDataFiltering\Intermediate\Build\Win64\x64\UnrealEditor\Development\TraceDataFiltering\Definitions.TraceDataFiltering.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\UObjectPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\UObjectPlugin\Definitions.UObjectPlugin.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Intermediate\Build\Win64\x64\UnrealEditor\Development\VSCSCA\Definitions.VSCSCA.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Developer\VisualStudioSourceCodeAccess\Intermediate\Build\Win64\x64\UnrealEditor\Development\VSSCA\Definitions.VSSCA.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\AssetManagerEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetManagerEditor\Definitions.AssetManagerEditor.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\BlueprintHeaderView\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintHeaderView\Definitions.BlueprintHeaderView.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\ChangelistReview\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChangelistReview\Definitions.ChangelistReview.h"
+[2023.10.03-13.09.13:728][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Intermediate\Build\Win64\x64\UnrealEditor\Development\CBAssetDataSource\Definitions.CBAssetDataSource.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\ContentBrowser\ContentBrowserClassDataSource\Intermediate\Build\Win64\x64\UnrealEditor\Development\CBClassDataSource\Definitions.CBClassDataSource.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\CryptoKeys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptoKeys\Definitions.CryptoKeys.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\CryptoKeys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptoKeysOpenSSL\Definitions.CryptoKeysOpenSSL.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\CurveEditorTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurveEditorTools\Definitions.CurveEditorTools.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\DataValidation\Intermediate\Build\Win64\x64\UnrealEditor\Development\DataValidation\Definitions.DataValidation.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\EditorDebugTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorDebugTools\Definitions.EditorDebugTools.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\EngineAssetDefinitions\Intermediate\Build\Win64\x64\UnrealEditor\Development\EngineAssetDefinitions\Definitions.EngineAssetDefinitions.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\FacialAnimation\Intermediate\Build\Win64\x64\UnrealEditor\Development\FacialAnimation\Definitions.FacialAnimation.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\FacialAnimation\Intermediate\Build\Win64\x64\UnrealEditor\Development\FacialAnimationEditor\Definitions.FacialAnimationEditor.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\GameplayTagsEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTagsEditor\Definitions.GameplayTagsEditor.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\GeometryMode\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryMode\Definitions.GeometryMode.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\GeometryMode\Intermediate\Build\Win64\x64\UnrealEditor\Development\BspMode\Definitions.BspMode.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\GeometryMode\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureAlignMode\Definitions.TextureAlignMode.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\Localization\PortableObjectFileDataSource\Intermediate\Build\Win64\x64\UnrealEditor\Development\POFileDataSource\Definitions.POFileDataSource.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\MaterialAnalyzer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MaterialAnalyzer\Definitions.MaterialAnalyzer.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\MobileLauncherProfileWizard\Intermediate\Build\Win64\x64\UnrealEditor\Development\MobileLauncherProfileWizard\Definitions.MobileLauncherProfileWizard.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\ObjectMixer\LightMixer\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightMixer\Definitions.LightMixer.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\ObjectMixer\ObjectMixer\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObjectMixerEditor\Definitions.ObjectMixerEditor.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\PluginBrowser\Intermediate\Build\Win64\x64\UnrealEditor\Development\PluginBrowser\Definitions.PluginBrowser.h"
+[2023.10.03-13.09.13:829][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\SequencerAnimTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\SequencerAnimTools\Definitions.SequencerAnimTools.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\SpeedTreeImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpeedTreeImporter\Definitions.SpeedTreeImporter.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\UVEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\UVEditor\Definitions.UVEditor.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\UVEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\UVEditorTools\Definitions.UVEditorTools.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\UVEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\UVEditorToolsEditorOnly\Definitions.UVEditorToolsEditorOnly.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\GeometryProcessing\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryAlgorithms\Definitions.GeometryAlgorithms.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\GeometryProcessing\Intermediate\Build\Win64\x64\UnrealEditor\Development\DynamicMesh\Definitions.DynamicMesh.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\MeshModelingToolset\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshModelingTools\Definitions.MeshModelingTools.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\MeshModelingToolset\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshModelingToolsEditorOnly\Definitions.MeshModelingToolsEditorOnly.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\MeshModelingToolset\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelingComponents\Definitions.ModelingComponents.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\MeshModelingToolset\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelingComponentsEditorOnly\Definitions.ModelingComponentsEditorOnly.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\MeshModelingToolset\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelingOperators\Definitions.ModelingOperators.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\MeshModelingToolset\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelingOperatorsEditorOnly\Definitions.ModelingOperatorsEditorOnly.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ProxyLODPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProxyLODMeshReduction\Definitions.ProxyLODMeshReduction.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\MeshModelingToolsetExp\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshModelingToolsExp\Definitions.MeshModelingToolsExp.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\MeshModelingToolsetExp\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshModelingToolsEditorOnlyExp\Definitions.MeshModelingToolsEditorOnlyExp.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\MeshModelingToolsetExp\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryProcessingAdapters\Definitions.GeometryProcessingAdapters.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\MeshModelingToolsetExp\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelingEditorUI\Definitions.ModelingEditorUI.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\MeshModelingToolsetExp\Intermediate\Build\Win64\x64\UnrealEditor\Development\SkeletalMeshModifiers\Definitions.SkeletalMeshModifiers.h"
+[2023.10.03-13.09.13:929][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Editor\WorldPartitionHLODUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorldPartitionHLODUtilities\Definitions.WorldPartitionHLODUtilities.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\EnhancedInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\EnhancedInput\Definitions.EnhancedInput.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\EnhancedInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputBlueprintNodes\Definitions.InputBlueprintNodes.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\EnhancedInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputEditor\Definitions.InputEditor.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Enterprise\DatasmithContent\Intermediate\Build\Win64\x64\UnrealEditor\Development\DatasmithContent\Definitions.DatasmithContent.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Enterprise\DatasmithContent\Intermediate\Build\Win64\x64\UnrealEditor\Development\DatasmithContentEditor\Definitions.DatasmithContentEditor.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Enterprise\VariantManagerContent\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariantManagerContent\Definitions.VariantManagerContent.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Enterprise\VariantManagerContent\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariantManagerContentEditor\Definitions.VariantManagerContentEditor.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Enterprise\GLTFExporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GLTFExporter\Definitions.GLTFExporter.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\AutomationUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\AutomationUtils\Definitions.AutomationUtils.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\AutomationUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\AutomationUtilsEditor\Definitions.AutomationUtilsEditor.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\BackChannel\Intermediate\Build\Win64\x64\UnrealEditor\Development\BackChannel\Definitions.BackChannel.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ChaosClothEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChaosClothEditor\Definitions.ChaosClothEditor.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ChaosCloth\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChaosCloth\Definitions.ChaosCloth.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ChaosCaching\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChaosCaching\Definitions.ChaosCaching.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ChaosCaching\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChaosCachingEditor\Definitions.ChaosCachingEditor.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\VirtualProduction\Takes\Intermediate\Build\Win64\x64\UnrealEditor\Development\TakesCore\Definitions.TakesCore.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\VirtualProduction\Takes\Intermediate\Build\Win64\x64\UnrealEditor\Development\TakeTrackRecorders\Definitions.TakeTrackRecorders.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\VirtualProduction\Takes\Intermediate\Build\Win64\x64\UnrealEditor\Development\TakeRecorderSources\Definitions.TakeRecorderSources.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\VirtualProduction\Takes\Intermediate\Build\Win64\x64\UnrealEditor\Development\TakeRecorder\Definitions.TakeRecorder.h"
+[2023.10.03-13.09.14:031][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\VirtualProduction\Takes\Intermediate\Build\Win64\x64\UnrealEditor\Development\TakeMovieScene\Definitions.TakeMovieScene.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\VirtualProduction\Takes\Intermediate\Build\Win64\x64\UnrealEditor\Development\TakeSequencer\Definitions.TakeSequencer.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\VirtualProduction\Takes\Intermediate\Build\Win64\x64\UnrealEditor\Development\CacheTrackRecorder\Definitions.CacheTrackRecorder.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AudioCapture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioCapture\Definitions.AudioCapture.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AudioCapture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioCaptureEditor\Definitions.AudioCaptureEditor.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ChaosEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\FractureEditor\Definitions.FractureEditor.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\PlanarCutPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlanarCut\Definitions.PlanarCut.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\GeometryCollectionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCollectionEditor\Definitions.GeometryCollectionEditor.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\GeometryCollectionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCollectionTracks\Definitions.GeometryCollectionTracks.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\GeometryCollectionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCollectionSequencer\Definitions.GeometryCollectionSequencer.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\GeometryCollectionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCollectionNodes\Definitions.GeometryCollectionNodes.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralMeshComponent\Definitions.ProceduralMeshComponent.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralMeshComponentEditor\Definitions.ProceduralMeshComponentEditor.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ChaosSolverPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChaosSolverEditor\Definitions.ChaosSolverEditor.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\Dataflow\Intermediate\Build\Win64\x64\UnrealEditor\Development\DataflowEditor\Definitions.DataflowEditor.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\Dataflow\Intermediate\Build\Win64\x64\UnrealEditor\Development\DataflowEnginePlugin\Definitions.DataflowEnginePlugin.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\Dataflow\Intermediate\Build\Win64\x64\UnrealEditor\Development\DataflowNodes\Definitions.DataflowNodes.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\Fracture\Intermediate\Build\Win64\x64\UnrealEditor\Development\FractureEngine\Definitions.FractureEngine.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ChaosNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChaosNiagara\Definitions.ChaosNiagara.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\NiagaraCore\Definitions.NiagaraCore.h"
+[2023.10.03-13.09.14:132][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\Niagara\Definitions.Niagara.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\NiagaraAnimNotifies\Definitions.NiagaraAnimNotifies.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\NiagaraShader\Definitions.NiagaraShader.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\NiagaraVertexFactories\Definitions.NiagaraVertexFactories.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\NiagaraEditor\Definitions.NiagaraEditor.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\NiagaraEditorWidgets\Definitions.NiagaraEditorWidgets.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ChaosUserDataPT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChaosUserDataPT\Definitions.ChaosUserDataPT.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\CharacterAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\CharacterAI\Definitions.CharacterAI.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\LocalizableMessage\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocalizableMessage\Definitions.LocalizableMessage.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\LocalizableMessage\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocalizableMessageBlueprint\Definitions.LocalizableMessageBlueprint.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\StructUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\StructUtils\Definitions.StructUtils.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\StructUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\StructUtilsEngine\Definitions.StructUtilsEngine.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\StructUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\StructUtilsEditor\Definitions.StructUtilsEditor.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\StructUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\StructUtilsNodes\Definitions.StructUtilsNodes.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\StructUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\StructUtilsTestSuite\Definitions.StructUtilsTestSuite.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\OpenImageDenoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenImageDenoise\Definitions.OpenImageDenoise.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlatformCrypto\Definitions.PlatformCrypto.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlatformCryptoTypes\Definitions.PlatformCryptoTypes.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlatformCryptoOpenSSL\Definitions.PlatformCryptoOpenSSL.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\SkeletalReduction\Intermediate\Build\Win64\x64\UnrealEditor\Development\SkeletalMeshReduction\Definitions.SkeletalMeshReduction.h"
+[2023.10.03-13.09.14:232][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ToolPresets\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolPresetAsset\Definitions.ToolPresetAsset.h"
+[2023.10.03-13.09.14:335][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Experimental\ToolPresets\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolPresetEditor\Definitions.ToolPresetEditor.h"
+[2023.10.03-13.09.14:335][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\FastBuildController\Intermediate\Build\Win64\x64\UnrealEditor\Development\FastBuildController\Definitions.FastBuildController.h"
+[2023.10.03-13.09.14:335][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Importers\AlembicImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\AlembicImporter\Definitions.AlembicImporter.h"
+[2023.10.03-13.09.14:436][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Importers\AlembicImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\AlembicLibrary\Definitions.AlembicLibrary.h"
+[2023.10.03-13.09.14:436][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\GeometryCache\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCacheEd\Definitions.GeometryCacheEd.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\GeometryCache\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCacheSequencer\Definitions.GeometryCacheSequencer.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\GeometryCache\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCacheStreamer\Definitions.GeometryCacheStreamer.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\GeometryCache\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCache\Definitions.GeometryCache.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\GeometryCache\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCacheTracks\Definitions.GeometryCacheTracks.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Editor\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeEditor\Definitions.InterchangeEditor.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Editor\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeEditorPipelines\Definitions.InterchangeEditorPipelines.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Editor\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeEditorUtilities\Definitions.InterchangeEditorUtilities.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\GLTFCore\Definitions.GLTFCore.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeNodes\Definitions.InterchangeNodes.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeFactoryNodes\Definitions.InterchangeFactoryNodes.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeImport\Definitions.InterchangeImport.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeMessages\Definitions.InterchangeMessages.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeExport\Definitions.InterchangeExport.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangePipelines\Definitions.InterchangePipelines.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeDispatcher\Definitions.InterchangeDispatcher.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeCommonParser\Definitions.InterchangeCommonParser.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Interchange\Runtime\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeFbxParser\Definitions.InterchangeFbxParser.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Enterprise\VariantManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariantManager\Definitions.VariantManager.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\AndroidMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidMediaEditor\Definitions.AndroidMediaEditor.h"
+[2023.10.03-13.09.14:536][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\AndroidMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidMediaFactory\Definitions.AndroidMediaFactory.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\AvfMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\AvfMediaEditor\Definitions.AvfMediaEditor.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\AvfMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\AvfMediaFactory\Definitions.AvfMediaFactory.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\ImgMedia\Definitions.ImgMedia.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\ImgMediaEditor\Definitions.ImgMediaEditor.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\ImgMediaEngine\Definitions.ImgMediaEngine.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\ImgMediaFactory\Definitions.ImgMediaFactory.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenExrWrapper\Definitions.OpenExrWrapper.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\ExrReaderGpu\Definitions.ExrReaderGpu.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\MediaPlayerEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\MediaPlayerEditor\Definitions.MediaPlayerEditor.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\MediaCompositing\Intermediate\Build\Win64\x64\UnrealEditor\Development\MediaCompositing\Definitions.MediaCompositing.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\MediaCompositing\Intermediate\Build\Win64\x64\UnrealEditor\Development\MediaCompositingEditor\Definitions.MediaCompositingEditor.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\MediaPlate\Intermediate\Build\Win64\x64\UnrealEditor\Development\MediaPlate\Definitions.MediaPlate.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\MediaPlate\Intermediate\Build\Win64\x64\UnrealEditor\Development\MediaPlateEditor\Definitions.MediaPlateEditor.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\WmfMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\WmfMedia\Definitions.WmfMedia.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\WmfMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\WmfMediaEditor\Definitions.WmfMediaEditor.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\WmfMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\WmfMediaFactory\Definitions.WmfMediaFactory.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\MeshPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshPaintEditorMode\Definitions.MeshPaintEditorMode.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\MeshPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshPaintingToolset\Definitions.MeshPaintingToolset.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Messaging\TcpMessaging\Intermediate\Build\Win64\x64\UnrealEditor\Development\TcpMessaging\Definitions.TcpMessaging.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\x64\UnrealEditor\Development\UdpMessaging\Definitions.UdpMessaging.h"
+[2023.10.03-13.09.14:636][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\MovieScene\ActorSequence\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorSequence\Definitions.ActorSequence.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\MovieScene\ActorSequence\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorSequenceEditor\Definitions.ActorSequenceEditor.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\Definitions.OnlineSubsystem.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Online\OnlineBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineBase\Definitions.OnlineBase.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AndroidPermission\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidPermission\Definitions.AndroidPermission.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\Definitions.OnlineSubsystemNull.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemUtils\Definitions.OnlineSubsystemUtils.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineBlueprintSupport\Definitions.OnlineBlueprintSupport.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesInterface\Definitions.OnlineServicesInterface.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\Definitions.OnlineServicesCommon.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommonEngineUtils\Definitions.OnlineServicesCommonEngineUtils.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Portal\LauncherChunkInstaller\Intermediate\Build\Win64\x64\UnrealEditor\Development\LauncherChunkInstaller\Definitions.LauncherChunkInstaller.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\ActorLayerUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorLayerUtilities\Definitions.ActorLayerUtilities.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\ActorLayerUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorLayerUtilitiesEditor\Definitions.ActorLayerUtilitiesEditor.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AndroidDeviceProfileSelector\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidDPS\Definitions.AndroidDPS.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AndroidDeviceProfileSelector\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidDeviceProfileCommandlets\Definitions.AndroidDeviceProfileCommandlets.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AndroidFileServer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidFileServer\Definitions.AndroidFileServer.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AndroidFileServer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidFileServerEditor\Definitions.AndroidFileServerEditor.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AppleImageUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\AppleImageUtils\Definitions.AppleImageUtils.h"
+[2023.10.03-13.09.14:737][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AppleImageUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\AppleImageUtilsBlueprintSupport\Definitions.AppleImageUtilsBlueprintSupport.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\ArchVisCharacter\Intermediate\Build\Win64\x64\UnrealEditor\Development\ArchVisCharacter\Definitions.ArchVisCharacter.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AssetTags\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetTags\Definitions.AssetTags.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\CableComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\CableComponent\Definitions.CableComponent.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\ChunkDownloader\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChunkDownloader\Definitions.ChunkDownloader.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\CustomMeshComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomMeshComponent\Definitions.CustomMeshComponent.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Intermediate\Build\Win64\x64\UnrealEditor\Development\ExampleDeviceProfileSelector\Definitions.ExampleDeviceProfileSelector.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\GooglePAD\Intermediate\Build\Win64\x64\UnrealEditor\Development\GooglePAD\Definitions.GooglePAD.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\GooglePAD\Intermediate\Build\Win64\x64\UnrealEditor\Development\GooglePADEditor\Definitions.GooglePADEditor.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\InputDebugging\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputDebugging\Definitions.InputDebugging.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\InputDebugging\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputDebuggingEditor\Definitions.InputDebuggingEditor.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\LocationServicesBPLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocationServicesBPLibrary\Definitions.LocationServicesBPLibrary.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\Metasound\Intermediate\Build\Win64\x64\UnrealEditor\Development\MetasoundGraphCore\Definitions.MetasoundGraphCore.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\Metasound\Intermediate\Build\Win64\x64\UnrealEditor\Development\MetasoundGenerator\Definitions.MetasoundGenerator.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\Metasound\Intermediate\Build\Win64\x64\UnrealEditor\Development\MetasoundFrontend\Definitions.MetasoundFrontend.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\Metasound\Intermediate\Build\Win64\x64\UnrealEditor\Development\MetasoundStandardNodes\Definitions.MetasoundStandardNodes.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\Metasound\Intermediate\Build\Win64\x64\UnrealEditor\Development\MetasoundEngine\Definitions.MetasoundEngine.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\Metasound\Intermediate\Build\Win64\x64\UnrealEditor\Development\MetasoundEngineTest\Definitions.MetasoundEngineTest.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\Metasound\Intermediate\Build\Win64\x64\UnrealEditor\Development\MetasoundEditor\Definitions.MetasoundEditor.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AudioWidgets\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioWidgets\Definitions.AudioWidgets.h"
+[2023.10.03-13.09.14:838][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AudioSynesthesia\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioSynesthesiaCore\Definitions.AudioSynesthesiaCore.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AudioSynesthesia\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioSynesthesia\Definitions.AudioSynesthesia.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\AudioSynesthesia\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioSynesthesiaEditor\Definitions.AudioSynesthesiaEditor.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\WaveTable\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaveTable\Definitions.WaveTable.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\WaveTable\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaveTableEditor\Definitions.WaveTableEditor.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\MobilePatchingUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\MobilePatchingUtils\Definitions.MobilePatchingUtils.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\MsQuic\Intermediate\Build\Win64\x64\UnrealEditor\Development\MsQuicRuntime\Definitions.MsQuicRuntime.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\ResonanceAudio\Intermediate\Build\Win64\x64\UnrealEditor\Development\ResonanceAudioEditor\Definitions.ResonanceAudioEditor.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\SoundFields\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoundFields\Definitions.SoundFields.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\Synthesis\Intermediate\Build\Win64\x64\UnrealEditor\Development\Synthesis\Definitions.Synthesis.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\Synthesis\Intermediate\Build\Win64\x64\UnrealEditor\Development\SynthesisEditor\Definitions.SynthesisEditor.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\WebMMoviePlayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\WebMMoviePlayer\Definitions.WebMMoviePlayer.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\WebMMedia\Definitions.WebMMedia.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\WebMMediaEditor\Definitions.WebMMediaEditor.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\x64\UnrealEditor\Development\WebMMediaFactory\Definitions.WebMMediaFactory.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\WindowsDeviceProfileSelector\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsDeviceProfileSelector\Definitions.WindowsDeviceProfileSelector.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Runtime\WindowsMoviePlayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsMoviePlayer\Definitions.WindowsMoviePlayer.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Tests\InterchangeTests\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeTests\Definitions.InterchangeTests.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\Tests\InterchangeTests\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeTestEditor\Definitions.InterchangeTestEditor.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\TraceUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\TraceUtilities\Definitions.TraceUtilities.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\TraceUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorTraceUtilities\Definitions.EditorTraceUtilities.h"
+[2023.10.03-13.09.14:938][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Plugins\XGEController\Intermediate\Build\Win64\x64\UnrealEditor\Development\XGEController\Definitions.XGEController.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ApplicationCore\Definitions.ApplicationCore.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Json\Definitions.Json.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DesktopPlatform\Definitions.DesktopPlatform.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Projects\Definitions.Projects.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetCommon\Definitions.NetCommon.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sockets\Definitions.Sockets.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SSL\Definitions.SSL.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Zen\Definitions.Zen.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DerivedDataCache\Definitions.DerivedDataCache.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputCore\Definitions.InputCore.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SlateCore\Definitions.SlateCore.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorManagement\Definitions.ColorManagement.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ImageCore\Definitions.ImageCore.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ImageWrapper\Definitions.ImageWrapper.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Settings\Definitions.Settings.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\Definitions.Slate.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SourceCodeAccess\Definitions.SourceCodeAccess.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DirectoryWatcher\Definitions.DirectoryWatcher.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MessageLog\Definitions.MessageLog.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TelemetryUtils\Definitions.TelemetryUtils.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistry\Definitions.AssetRegistry.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Networking\Definitions.Networking.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CookOnTheFly\Definitions.CookOnTheFly.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NullDrv\Definitions.NullDrv.h"
+[2023.10.03-13.09.15:038][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorAnalyticsSession\Definitions.EditorAnalyticsSession.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationCore\Definitions.AnimationCore.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolMenus\Definitions.ToolMenus.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolWidgets\Definitions.ToolWidgets.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetTagsEditor\Definitions.AssetTagsEditor.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\BSPUtils\Definitions.BSPUtils.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeveloperSettings\Definitions.DeveloperSettings.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioPlatformConfiguration\Definitions.AudioPlatformConfiguration.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Analytics\Definitions.Analytics.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureFormat\Definitions.TextureFormat.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeveloperToolSettings\Definitions.DeveloperToolSettings.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EngineSettings\Definitions.EngineSettings.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkspaceMenuStructure\Definitions.WorkspaceMenuStructure.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SessionMessages\Definitions.SessionMessages.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEdMessages\Definitions.UnrealEdMessages.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TurnkeyIO\Definitions.TurnkeyIO.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LauncherServices\Definitions.LauncherServices.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorSubsystem\Definitions.EditorSubsystem.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCore\Definitions.GeometryCore.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshDescription\Definitions.MeshDescription.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\InteractiveToolsFramework\Definitions.InteractiveToolsFramework.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TypedElementFramework\Definitions.TypedElementFramework.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TypedElementRuntime\Definitions.TypedElementRuntime.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorFramework\Definitions.EditorFramework.h"
+[2023.10.03-13.09.15:139][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ContentBrowserData\Definitions.ContentBrowserData.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetDefinition\Definitions.AssetDefinition.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\FieldNotification\Definitions.FieldNotification.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorConfig\Definitions.EditorConfig.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorWidgets\Definitions.EditorWidgets.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimeManagement\Definitions.TimeManagement.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovieScene\Definitions.MovieScene.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PackagesDialog\Definitions.PackagesDialog.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UncontrolledChangelists\Definitions.UncontrolledChangelists.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnsavedAssetsTracker\Definitions.UnsavedAssetsTracker.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SourceControlWindows\Definitions.SourceControlWindows.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\RSA\Definitions.RSA.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PakFile\Definitions.PakFile.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WidgetCarousel\Definitions.WidgetCarousel.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AddContentDialog\Definitions.AddContentDialog.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Documentation\Definitions.Documentation.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\JsonUtilities\Definitions.JsonUtilities.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Localization\Definitions.Localization.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocalizationCommandletExecution\Definitions.LocalizationCommandletExecution.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocalizationService\Definitions.LocalizationService.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TranslationEditor\Definitions.TranslationEditor.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ExternalImagePicker\Definitions.ExternalImagePicker.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SharedSettingsWidgets\Definitions.SharedSettingsWidgets.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeviceProfileEditor\Definitions.DeviceProfileEditor.h"
+[2023.10.03-13.09.15:241][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UndoHistory\Definitions.UndoHistory.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UndoHistoryEditor\Definitions.UndoHistoryEditor.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeCore\Definitions.InterchangeCore.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChaosCore\Definitions.ChaosCore.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Voronoi\Definitions.Voronoi.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Chaos\Definitions.Chaos.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PhysicsCore\Definitions.PhysicsCore.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClothSysRuntimeIntrfc\Definitions.ClothSysRuntimeIntrfc.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClothingSystemRuntimeCommon\Definitions.ClothingSystemRuntimeCommon.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshUtilitiesCommon\Definitions.MeshUtilitiesCommon.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\RawMesh\Definitions.RawMesh.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryProcessingInterfaces\Definitions.GeometryProcessingInterfaces.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\StaticMeshDescription\Definitions.StaticMeshDescription.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SkeletalMeshDescription\Definitions.SkeletalMeshDescription.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SkeletalMeshUtilitiesCommon\Definitions.SkeletalMeshUtilitiesCommon.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\InterchangeEngine\Definitions.InterchangeEngine.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTargetPlatformEditor\Definitions.ProjectTargetPlatformEditor.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EventLoop\Definitions.EventLoop.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\HTTP\Definitions.HTTP.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LauncherPlatform\Definitions.LauncherPlatform.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Foliage\Definitions.Foliage.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MaterialBaking\Definitions.MaterialBaking.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorInteractiveToolsFramework\Definitions.EditorInteractiveToolsFramework.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationEditMode\Definitions.AnimationEditMode.h"
+[2023.10.03-13.09.15:341][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshConversion\Definitions.MeshConversion.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChaosSolverEngine\Definitions.ChaosSolverEngine.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\FieldSystemEngine\Definitions.FieldSystemEngine.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetCore\Definitions.NetCore.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DataflowCore\Definitions.DataflowCore.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DataflowEngine\Definitions.DataflowEngine.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NaniteUtilities\Definitions.NaniteUtilities.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\QuadricMeshReduction\Definitions.QuadricMeshReduction.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NaniteBuilder\Definitions.NaniteBuilder.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryCollectionEngine\Definitions.GeometryCollectionEngine.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimGraphRuntime\Definitions.AnimGraphRuntime.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimGraph\Definitions.AnimGraph.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationBlueprintLibrary\Definitions.AnimationBlueprintLibrary.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshBoneReduction\Definitions.MeshBoneReduction.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshReductionInterface\Definitions.MeshReductionInterface.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\HierarchicalLODUtilities\Definitions.HierarchicalLODUtilities.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GraphColor\Definitions.GraphColor.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshBuilderCommon\Definitions.MeshBuilderCommon.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshUtilitiesEngine\Definitions.MeshUtilitiesEngine.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationModifiers\Definitions.AnimationModifiers.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClothingSystemEditorInterface\Definitions.ClothingSystemEditorInterface.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonMenuExtensions\Definitions.CommonMenuExtensions.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PinnedCommandList\Definitions.PinnedCommandList.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PropertyPath\Definitions.PropertyPath.h"
+[2023.10.03-13.09.15:441][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SceneOutliner\Definitions.SceneOutliner.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DataLayerEditor\Definitions.DataLayerEditor.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SignalProcessing\Definitions.SignalProcessing.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioMixerCore\Definitions.AudioMixerCore.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioExtensions\Definitions.AudioExtensions.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Constraints\Definitions.Constraints.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovieSceneTracks\Definitions.MovieSceneTracks.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\HeadMountedDisplay\Definitions.HeadMountedDisplay.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SlateRHIRenderer\Definitions.SlateRHIRenderer.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMG\Definitions.UMG.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SequencerWidgets\Definitions.SequencerWidgets.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurveEditor\Definitions.CurveEditor.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CinematicCamera\Definitions.CinematicCamera.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SequencerCore\Definitions.SequencerCore.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorPickerMode\Definitions.ActorPickerMode.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LiveLinkInterface\Definitions.LiveLinkInterface.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedPreviewScene\Definitions.AdvancedPreviewScene.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MaterialEditor\Definitions.MaterialEditor.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkReplayStreaming\Definitions.NetworkReplayStreaming.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SerializedRecorderInterface\Definitions.SerializedRecorderInterface.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SequenceRecorder\Definitions.SequenceRecorder.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\XmlParser\Definitions.XmlParser.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AVIWriter\Definitions.AVIWriter.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ImageWriteQueue\Definitions.ImageWriteQueue.h"
+[2023.10.03-13.09.15:542][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\BinkAudioDecoder\Definitions.BinkAudioDecoder.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NonRealtimeAudioRenderer\Definitions.NonRealtimeAudioRenderer.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoundFieldRendering\Definitions.SoundFieldRendering.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioLinkCore\Definitions.AudioLinkCore.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioLinkEngine\Definitions.AudioLinkEngine.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioMixer\Definitions.AudioMixer.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovieSceneCapture\Definitions.MovieSceneCapture.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovieSceneTools\Definitions.MovieSceneTools.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EngineMessages\Definitions.EngineMessages.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SessionServices\Definitions.SessionServices.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovieSceneCaptureDialog\Definitions.MovieSceneCaptureDialog.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ViewportInteraction\Definitions.ViewportInteraction.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sequencer\Definitions.Sequencer.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationWidgets\Definitions.AnimationWidgets.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SkeletonEditor\Definitions.SkeletonEditor.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationEditor\Definitions.AnimationEditor.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Persona\Definitions.Persona.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationBlueprintEditor\Definitions.AnimationBlueprintEditor.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SceneDepthPickerMode\Definitions.SceneDepthPickerMode.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PhysicsUtilities\Definitions.PhysicsUtilities.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SkeletalMeshEditor\Definitions.SkeletalMeshEditor.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshUtilities\Definitions.MeshUtilities.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DesktopWidgets\Definitions.DesktopWidgets.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoviePlayerProxy\Definitions.MoviePlayerProxy.h"
+[2023.10.03-13.09.15:643][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoviePlayer\Definitions.MoviePlayer.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SettingsEditor\Definitions.SettingsEditor.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\InternationalizationSettings\Definitions.InternationalizationSettings.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\HardwareTargeting\Definitions.HardwareTargeting.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navmesh\Definitions.Navmesh.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NavigationSystem\Definitions.NavigationSystem.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\IrisCore\Definitions.IrisCore.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTasks\Definitions.GameplayTasks.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AITestSuite\Definitions.AITestSuite.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DrawPrimitiveDebugger\Definitions.DrawPrimitiveDebugger.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayDebugger\Definitions.GameplayDebugger.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayDebuggerEditor\Definitions.GameplayDebuggerEditor.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTags\Definitions.GameplayTags.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AIModule\Definitions.AIModule.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConfigEditor\Definitions.ConfigEditor.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ComponentVisualizers\Definitions.ComponentVisualizers.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioSettingsEditor\Definitions.AudioSettingsEditor.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DataTableEditor\Definitions.DataTableEditor.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CollectionManager\Definitions.CollectionManager.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlacementMode\Definitions.PlacementMode.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\VirtualTexturingEditor\Definitions.VirtualTexturingEditor.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Layers\Definitions.Layers.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DetailCustomizations\Definitions.DetailCustomizations.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\StaticMeshEditor\Definitions.StaticMeshEditor.h"
+[2023.10.03-13.09.15:743][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshMergeUtilities\Definitions.MeshMergeUtilities.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MaterialUtilities\Definitions.MaterialUtilities.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClothingSystemRuntimeNv\Definitions.ClothingSystemRuntimeNv.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshBuilder\Definitions.MeshBuilder.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Landscape\Definitions.Landscape.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\StatsViewer\Definitions.StatsViewer.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PIEPreviewDeviceSpecification\Definitions.PIEPreviewDeviceSpecification.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeviceProfileServices\Definitions.DeviceProfileServices.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\HierarchicalLODOutliner\Definitions.HierarchicalLODOutliner.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MSQS\Definitions.MSQS.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PixelInspectorModule\Definitions.PixelInspectorModule.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EnvironmentLightingViewer\Definitions.EnvironmentLightingViewer.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SubobjectDataInterface\Definitions.SubobjectDataInterface.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SubobjectEditor\Definitions.SubobjectEditor.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\OutputLog\Definitions.OutputLog.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DerivedDataEditor\Definitions.DerivedDataEditor.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeviceManager\Definitions.DeviceManager.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AutomationTest\Definitions.AutomationTest.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AutomationMessages\Definitions.AutomationMessages.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreenShotComparisonTools\Definitions.ScreenShotComparisonTools.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AutomationController\Definitions.AutomationController.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AutomationWindow\Definitions.AutomationWindow.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewLevelDialog\Definitions.NewLevelDialog.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeEditorUtilities\Definitions.LandscapeEditorUtilities.h"
+[2023.10.03-13.09.15:844][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeEditor\Definitions.LandscapeEditor.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\FoliageEdit\Definitions.FoliageEdit.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorldBrowser\Definitions.WorldBrowser.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorldPartitionEditor\Definitions.WorldPartitionEditor.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\VREditor\Definitions.VREditor.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MergeActors\Definitions.MergeActors.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreenShotComparison\Definitions.ScreenShotComparison.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SessionFrontend\Definitions.SessionFrontend.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LevelEditor\Definitions.LevelEditor.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\HotReload\Definitions.HotReload.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocalizationDashboard\Definitions.LocalizationDashboard.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainFrame\Definitions.MainFrame.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\StatusBar\Definitions.StatusBar.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ContentBrowser\Definitions.ContentBrowser.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\KismetWidgets\Definitions.KismetWidgets.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGraph\Definitions.BlueprintGraph.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScriptDisassembler\Definitions.ScriptDisassembler.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\KismetCompiler\Definitions.KismetCompiler.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\StructViewer\Definitions.StructViewer.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GraphEditor\Definitions.GraphEditor.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Merge\Definitions.Merge.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintEditorLibrary\Definitions.BlueprintEditorLibrary.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMGEditor\Definitions.UMGEditor.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintRuntime\Definitions.BlueprintRuntime.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Kismet\Definitions.Kismet.h"
+[2023.10.03-13.09.15:945][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurveTableEditor\Definitions.CurveTableEditor.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\FontEditor\Definitions.FontEditor.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioEditor\Definitions.AudioEditor.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetTools\Definitions.AssetTools.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClassViewer\Definitions.ClassViewer.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameProjectGeneration\Definitions.GameProjectGeneration.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UATHelper\Definitions.UATHelper.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TurnkeySupport\Definitions.TurnkeySupport.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderPreprocessor\Definitions.ShaderPreprocessor.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\FileUtilities\Definitions.FileUtilities.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderCompilerCommon\Definitions.ShaderCompilerCommon.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderFormatOpenGL\Definitions.ShaderFormatOpenGL.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\VectorVM\Definitions.VectorVM.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderFormatVectorVM\Definitions.ShaderFormatVectorVM.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureBuildUtilities\Definitions.TextureBuildUtilities.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenColorIOWrapper\Definitions.OpenColorIOWrapper.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureCompressor\Definitions.TextureCompressor.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureBuild\Definitions.TextureBuild.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureFormatIntelISPCTexComp\Definitions.TextureFormatIntelISPCTexComp.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderFormatD3D\Definitions.ShaderFormatD3D.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureFormatDXT\Definitions.TextureFormatDXT.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureFormatUncompressed\Definitions.TextureFormatUncompressed.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioFormatADPCM\Definitions.AudioFormatADPCM.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioFormatOgg\Definitions.AudioFormatOgg.h"
+[2023.10.03-13.09.16:046][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioFormatOpus\Definitions.AudioFormatOpus.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioFormatBink\Definitions.AudioFormatBink.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\VulkanShaderFormat\Definitions.VulkanShaderFormat.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureFormatASTC\Definitions.TextureFormatASTC.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureFormatETC2\Definitions.TextureFormatETC2.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TargetPlatform\Definitions.TargetPlatform.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EyeTracker\Definitions.EyeTracker.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Renderer\Definitions.Renderer.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Media\Definitions.Media.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MediaUtils\Definitions.MediaUtils.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MediaAssets\Definitions.MediaAssets.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LevelSequence\Definitions.LevelSequence.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CookMetadata\Definitions.CookMetadata.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\IESFile\Definitions.IESFile.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureUtilitiesCommon\Definitions.TextureUtilitiesCommon.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwarmInterface\Definitions.SwarmInterface.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TargetDeviceServices\Definitions.TargetDeviceServices.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshPaint\Definitions.MeshPaint.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnalyticsET\Definitions.AnalyticsET.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClothingSystemEditor\Definitions.ClothingSystemEditor.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PIEPreviewDeviceProfileSelector\Definitions.PIEPreviewDeviceProfileSelector.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SandboxFile\Definitions.SandboxFile.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\S3Client\Definitions.S3Client.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\IoStoreOnDemand\Definitions.IoStoreOnDemand.h"
+[2023.10.03-13.09.16:147][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\IoStoreUtilities\Definitions.IoStoreUtilities.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PakFileUtilities\Definitions.PakFileUtilities.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Cbor\Definitions.Cbor.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TraceAnalysis\Definitions.TraceAnalysis.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TraceServices\Definitions.TraceServices.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CookOnTheFlyNetServer\Definitions.CookOnTheFlyNetServer.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\VirtualizationEditor\Definitions.VirtualizationEditor.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\RHICore\Definitions.RHICore.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\D3D12RHI\Definitions.D3D12RHI.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CUDA\Definitions.CUDA.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AVEncoder\Definitions.AVEncoder.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayMediaEncoder\Definitions.GameplayMediaEncoder.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsPlatformFeatures\Definitions.WindowsPlatformFeatures.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\FunctionalTesting\Definitions.FunctionalTesting.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkFileSystem\Definitions.NetworkFileSystem.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolMenusEditor\Definitions.ToolMenusEditor.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WidgetRegistration\Definitions.WidgetRegistration.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioMixerXAudio2\Definitions.AudioMixerXAudio2.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TextureEditor\Definitions.TextureEditor.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\DistCurveEditor\Definitions.DistCurveEditor.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Cascade\Definitions.Cascade.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputBindingEditor\Definitions.InputBindingEditor.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorSettingsViewer\Definitions.EditorSettingsViewer.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PhysicsAssetEditor\Definitions.PhysicsAssetEditor.h"
+[2023.10.03-13.09.16:247][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\StringTableEditor\Definitions.StringTableEditor.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Blutility\Definitions.Blutility.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScriptableEditorWidgets\Definitions.ScriptableEditorWidgets.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderResourceViewer\Definitions.RenderResourceViewer.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectSettingsViewer\Definitions.ProjectSettingsViewer.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AIGraph\Definitions.AIGraph.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\BehaviorTreeEditor\Definitions.BehaviorTreeEditor.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ViewportSnapping\Definitions.ViewportSnapping.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTasksEditor\Definitions.GameplayTasksEditor.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MessagingCommon\Definitions.MessagingCommon.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Messaging\Definitions.Messaging.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MessagingRpc\Definitions.MessagingRpc.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PortalServices\Definitions.PortalServices.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PortalMessages\Definitions.PortalMessages.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PortalProxies\Definitions.PortalProxies.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Overlay\Definitions.Overlay.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\OverlayEditor\Definitions.OverlayEditor.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClothPainter\Definitions.ClothPainter.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CSVtoSVG\Definitions.CSVtoSVG.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SourceControlWindowExtender\Definitions.SourceControlWindowExtender.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationSettings\Definitions.AnimationSettings.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectLauncher\Definitions.ProjectLauncher.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PListEditor\Definitions.PListEditor.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TraceInsights\Definitions.TraceInsights.h"
+[2023.10.03-13.09.16:347][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Android\AndroidRuntimeSettings\Definitions.AndroidRuntimeSettings.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Serialization\Definitions.Serialization.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Android\AndroidDeviceDetection\Definitions.AndroidDeviceDetection.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Android\AndroidPlatformEditor\Definitions.AndroidPlatformEditor.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorStyle\Definitions.EditorStyle.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PropertyEditor\Definitions.PropertyEditor.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SlateReflector\Definitions.SlateReflector.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AppFramework\Definitions.AppFramework.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Icmp\Definitions.Icmp.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PortalRpc\Definitions.PortalRpc.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\HTTPServer\Definitions.HTTPServer.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerfCounters\Definitions.PerfCounters.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CollisionAnalyzer\Definitions.CollisionAnalyzer.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LogVisualizer\Definitions.LogVisualizer.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreOnline\Definitions.CoreOnline.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SynthBenchmark\Definitions.SynthBenchmark.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ReliableHComp\Definitions.ReliableHComp.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PacketHandler\Definitions.PacketHandler.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Horde\Definitions.Horde.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SparseVolumeTexture\Definitions.SparseVolumeTexture.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\MRMesh\Definitions.MRMesh.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\StreamingPauseRendering\Definitions.StreamingPauseRendering.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SlateNullRenderer\Definitions.SlateNullRenderer.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimationDataController\Definitions.AnimationDataController.h"
+[2023.10.03-13.09.16:448][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CookedEditor\Definitions.CookedEditor.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsTargetPlatform\Definitions.WindowsTargetPlatform.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsPlatformEditor\Definitions.WindowsPlatformEditor.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NullReplayStreaming\Definitions.NullReplayStreaming.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LFNRS\Definitions.LFNRS.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\HttpReplayStreaming\Definitions.HttpReplayStreaming.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Advertising\Definitions.Advertising.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LiveCoding\Definitions.LiveCoding.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\LevelInstanceEditor\Definitions.LevelInstanceEditor.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Android\AndroidTargetPlatform\Definitions.AndroidTargetPlatform.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\D3D11RHI\Definitions.D3D11RHI.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\VirtualFileCache\Definitions.VirtualFileCache.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\BuildPatchServices\Definitions.BuildPatchServices.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\PreLoadScreen\Definitions.PreLoadScreen.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\VulkanRHI\Definitions.VulkanRHI.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenGLDrv\Definitions.OpenGLDrv.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\RHI\Definitions.RHI.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderCore\Definitions.RenderCore.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\SourceControl\Definitions.SourceControl.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Virtualization\Definitions.Virtualization.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\InstallBundleManager\Definitions.InstallBundleManager.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkFile\Definitions.NetworkFile.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\StreamingFile\Definitions.StreamingFile.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AutomationWorker\Definitions.AutomationWorker.h"
+[2023.10.03-13.09.16:549][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\StorageServerClient\Definitions.StorageServerClient.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioMixerPlatformAudioLink\Definitions.AudioMixerPlatformAudioLink.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProfileVisualizer\Definitions.ProfileVisualizer.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\RealtimeProfiler\Definitions.RealtimeProfiler.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProfilerMessages\Definitions.ProfilerMessages.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProfilerService\Definitions.ProfilerService.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProfilerClient\Definitions.ProfilerClient.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CEF3Utils\Definitions.CEF3Utils.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WebBrowser\Definitions.WebBrowser.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualGraphUtils\Definitions.VisualGraphUtils.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputDevice\Definitions.InputDevice.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TreeMap\Definitions.TreeMap.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurveAssetEditor\Definitions.CurveAssetEditor.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedWidgets\Definitions.AdvancedWidgets.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeometryFramework\Definitions.GeometryFramework.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioCaptureCore\Definitions.AudioCaptureCore.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioCaptureWasapi\Definitions.AudioCaptureWasapi.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioCaptureRtAudio\Definitions.AudioCaptureRtAudio.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\Voice\Definitions.Voice.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioCodecEngine\Definitions.AudioCodecEngine.h"
+[2023.10.03-13.09.16:650][715]Re-writing a file that was previously written: "D:\Games\UE_5.3\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioAnalyzer\Definitions.AudioAnalyzer.h"
+[2023.10.03-13.09.16:853][715]Binding IntelliSense data... 100%
+[2023.10.03-13.09.16:853][715]Writing project files...
+[2023.10.03-13.09.21:591][715]Writing project files... 100%
+[2023.10.03-13.09.21:591][715]
+[2023.10.03-13.09.21:591][715]Generating QueryTargets data for editor...
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: ================================================
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: Total job queries 112, among them cache hits 24 (21.43%)
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: Tracking 88 distinct input hashes that result in 67 distinct outputs (76.14%)
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: RAM used: 200.14 KiB of 819.20 MiB budget. Usage: 0.02%
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.03-13.12.07:325][212]LogShaderCompilers: Display: ================================================
+[2023.10.03-13.12.08:029][272]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.03-13.12.08:129][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-13.12.08:175][272]PIE: New page: PIE session: Main (Oct 3, 2023, 3:12:08 AM)
+[2023.10.03-13.12.08:294][272]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.03-13.12.08:295][272]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.10.03-13.12.08:296][272]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.10.03-13.12.08:452][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156467s)
+[2023.10.03-13.12.08:452][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.156542s)
+[2023.10.03-13.12.08:489][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.10.03-13.12.08:503][272]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-13.12.08:518][272]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.03-13.12.08:519][272]LogAIModule: Creating AISystem for world Main
+[2023.10.03-13.12.08:544][272]LogPlayLevel: PIE: World Init took: (0.045958s)
+[2023.10.03-13.12.08:556][272]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.03-13.12.08:556][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-13.12.08:556][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-13.12.08:556][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-13.12.08:556][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-13.12.08:556][272]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.03-13.12.08:556][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.03-13.12.08:556][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.03-13.12.08:556][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-13.12.08:556][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-13.12.08:556][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-13.12.08:556][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-13.12.08:558][272]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-13.12.08:585][272]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.10.03-13.12.08:586][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-13.12.08:586][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-13.12.08:586][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-13.12.08:587][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.03-13.12.08:587][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.03-13.12.08:588][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.03-13.12.08:588][272]LogInit: FAudioDevice initialized with ID 2.
+[2023.10.03-13.12.08:588][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.03-13.12.08:588][272]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2023.10.03-13.12.08:588][272]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.03-13.12.08:634][272]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.03-13.12.08:691][272]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.03-08.12.08
+[2023.10.03-13.12.10:250][272]LogWorld: Bringing up level for play took: 1.606871
+[2023.10.03-13.12.10:252][272]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.10.03-13.12.10:467][272]PIE: Server logged in
+[2023.10.03-13.12.10:469][272]PIE: Play in editor total start time 2.419 seconds.
+[2023.10.03-13.12.16:445][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.12.16:445][795]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.10.03-13.12.16:446][795]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-13.12.16:468][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.12.16:479][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-13.12.16:495][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.12.16:515][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-13.12.16:515][795]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.03-13.12.16:550][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.03-13.12.16:561][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.03-13.12.16:567][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.12.16:593][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.10.03-13.12.16:685][796]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.10.03-13.12.19:387][ 27]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.03-13.16.05:067][333]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_0.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_0.exp
+[2023.10.03-13.16.05:573][335]LogClass: UPackage /Script/ObstacleGame Reload.
+[2023.10.03-13.16.05:573][335]LogClass: UClass MovingPlatform Reload.
+[2023.10.03-13.16.05:573][335]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleGame for reload, assuming new or modified class
+[2023.10.03-13.16.05:609][335]Re-instancing MovingPlatform after reload.
+[2023.10.03-13.16.05:856][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.03-13.16.06:124][336]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.10.03-13.16.06:124][336]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.10.03-13.16.13:849][524]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.03-13.16.13:856][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-13.16.13:856][524]PIE: New page: PIE session: Main (Oct 3, 2023, 3:16:13 AM)
+[2023.10.03-13.16.13:890][524]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.10.03-13.16.13:914][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024871s)
+[2023.10.03-13.16.13:914][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.024933s)
+[2023.10.03-13.16.13:919][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.03-13.16.13:935][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-13.16.13:935][524]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.03-13.16.13:936][524]LogAIModule: Creating AISystem for world Main
+[2023.10.03-13.16.13:936][524]LogPlayLevel: PIE: World Init took: (0.016083s)
+[2023.10.03-13.16.13:936][524]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.03-13.16.13:936][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-13.16.13:936][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-13.16.13:936][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-13.16.13:936][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-13.16.13:936][524]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.03-13.16.13:936][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.03-13.16.13:936][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.03-13.16.13:936][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-13.16.13:937][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-13.16.13:937][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-13.16.13:937][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-13.16.13:938][524]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-13.16.13:965][524]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.10.03-13.16.13:965][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-13.16.13:965][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-13.16.13:965][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-13.16.13:966][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.03-13.16.13:966][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.03-13.16.13:968][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.03-13.16.13:968][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.03-13.16.13:968][524]LogInit: FAudioDevice initialized with ID 3.
+[2023.10.03-13.16.13:968][524]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2023.10.03-13.16.13:968][524]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.03-13.16.13:971][524]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.03-13.16.13:983][524]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.03-08.16.13
+[2023.10.03-13.16.15:472][524]LogWorld: Bringing up level for play took: 1.500433
+[2023.10.03-13.16.15:474][524]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.10.03-13.16.15:476][524]PIE: Server logged in
+[2023.10.03-13.16.15:477][524]PIE: Play in editor total start time 1.622 seconds.
+[2023.10.03-13.16.23:371][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.16.23:371][263]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.10.03-13.16.23:371][263]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-13.16.23:372][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.16.23:375][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-13.16.23:378][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.16.23:384][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-13.16.23:384][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.03-13.16.23:384][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.03-13.16.23:385][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.03-13.16.23:388][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.16.23:478][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.10.03-13.16.23:537][264]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.10.03-13.17.16:968][881]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.03-13.19.15:780][239]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_1.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_1.exp
+[2023.10.03-13.19.16:692][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.10.03-13.19.16:718][241]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2023.10.03-13.19.16:718][241]LogLiveCoding: Display: Live coding succeeded
+[2023.10.03-13.19.47:065][331]LogEditorViewport: Clicking Background
+[2023.10.03-13.19.47:819][394]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.03-13.19.47:825][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-13.19.47:825][394]PIE: New page: PIE session: Main (Oct 3, 2023, 3:19:47 AM)
+[2023.10.03-13.19.47:860][394]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.10.03-13.19.47:884][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024162s)
+[2023.10.03-13.19.47:884][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.024210s)
+[2023.10.03-13.19.47:888][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.03-13.19.47:889][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-13.19.47:889][394]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.03-13.19.47:890][394]LogAIModule: Creating AISystem for world Main
+[2023.10.03-13.19.47:890][394]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2023.10.03-13.19.47:890][394]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.10.03-13.19.47:890][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-13.19.47:890][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-13.19.47:890][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-13.19.47:890][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-13.19.47:890][394]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.03-13.19.47:890][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.03-13.19.47:890][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.03-13.19.47:890][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-13.19.47:890][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-13.19.47:890][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-13.19.47:891][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-13.19.47:893][394]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-13.19.47:919][394]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.10.03-13.19.47:920][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-13.19.47:920][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-13.19.47:920][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-13.19.47:920][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.10.03-13.19.47:920][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.10.03-13.19.47:922][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.10.03-13.19.47:922][394]LogInit: FAudioDevice initialized with ID 4.
+[2023.10.03-13.19.47:922][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.10.03-13.19.47:922][394]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2023.10.03-13.19.47:922][394]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.10.03-13.19.47:926][394]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.03-13.19.47:937][394]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.03-08.19.47
+[2023.10.03-13.19.49:451][394]LogWorld: Bringing up level for play took: 1.525159
+[2023.10.03-13.19.49:454][394]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.10.03-13.19.49:455][394]PIE: Server logged in
+[2023.10.03-13.19.49:456][394]PIE: Play in editor total start time 1.631 seconds.
+[2023.10.03-13.19.56:140][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.19.56:140][  7]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.10.03-13.19.56:140][  7]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-13.19.56:142][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.19.56:146][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-13.19.56:149][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.19.56:153][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-13.19.56:153][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.10.03-13.19.56:154][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.03-13.19.56:155][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.03-13.19.56:159][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.19.56:164][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.10.03-13.19.56:221][  9]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.10.03-13.23.51:406][120]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.03-13.25.01:992][895]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_2.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_2.exp
+[2023.10.03-13.25.02:351][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.03-13.25.02:490][897]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2023.10.03-13.25.02:490][897]LogLiveCoding: Display: Live coding succeeded
+[2023.10.03-13.25.07:383][ 46]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.03-13.25.07:389][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-13.25.07:389][ 46]PIE: New page: PIE session: Main (Oct 3, 2023, 3:25:07 AM)
+[2023.10.03-13.25.07:389][ 46]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.10.03-13.25.07:414][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024491s)
+[2023.10.03-13.25.07:414][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.024532s)
+[2023.10.03-13.25.07:418][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.03-13.25.07:419][ 46]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-13.25.07:419][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.03-13.25.07:420][ 46]LogAIModule: Creating AISystem for world Main
+[2023.10.03-13.25.07:420][ 46]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2023.10.03-13.25.07:420][ 46]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.10.03-13.25.07:420][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-13.25.07:420][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-13.25.07:420][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-13.25.07:420][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-13.25.07:420][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.03-13.25.07:420][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.03-13.25.07:420][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.03-13.25.07:420][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-13.25.07:421][ 46]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-13.25.07:421][ 46]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-13.25.07:421][ 46]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-13.25.07:423][ 46]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-13.25.07:451][ 46]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.10.03-13.25.07:451][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-13.25.07:451][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-13.25.07:451][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-13.25.07:452][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.10.03-13.25.07:452][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.10.03-13.25.07:453][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.10.03-13.25.07:453][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.10.03-13.25.07:453][ 46]LogInit: FAudioDevice initialized with ID 5.
+[2023.10.03-13.25.07:453][ 46]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2023.10.03-13.25.07:453][ 46]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.03-13.25.07:457][ 46]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.03-13.25.07:469][ 46]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.03-08.25.07
+[2023.10.03-13.25.08:970][ 46]LogWorld: Bringing up level for play took: 1.512596
+[2023.10.03-13.25.08:972][ 46]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.10.03-13.25.08:974][ 46]PIE: Server logged in
+[2023.10.03-13.25.08:974][ 46]PIE: Play in editor total start time 1.586 seconds.
+[2023.10.03-13.25.12:999][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.25.12:999][403]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.10.03-13.25.12:999][403]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-13.25.13:000][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.25.13:003][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-13.25.13:006][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.25.13:010][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.25.13:011][403]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.03-13.25.13:011][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.03-13.25.13:013][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.03-13.25.13:021][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.03-13.25.13:081][404]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.10.03-13.26.48:537][369]LogEditorViewport: Clicking Background
+[2023.10.03-13.27.00:167][372]LogSlate: Took 0.028058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.03-13.30.06:498][  7]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.03-13.31.32:921][559]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-13.31.33:311][559]LogViewport: Scene viewport resized to 396x273, mode Windowed.
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: ================================================
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: Total job queries 124, among them cache hits 26 (20.97%)
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: Tracking 98 distinct input hashes that result in 68 distinct outputs (69.39%)
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: RAM used: 225.35 KiB of 819.20 MiB budget. Usage: 0.03%
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.03-13.31.33:978][560]LogShaderCompilers: Display: ================================================
+[2023.10.03-13.31.40:707][669]LogViewport: Scene viewport resized to 396x273, mode Windowed.
+[2023.10.03-13.33.32:482][ 36]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_3.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_3.exp
+[2023.10.03-13.33.33:157][ 38]LogClass: UPackage /Script/ObstacleGame Reload.
+[2023.10.03-13.33.33:157][ 38]LogClass: UClass MovingPlatform Reload.
+[2023.10.03-13.33.33:157][ 38]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleGame for reload, assuming new or modified class
+[2023.10.03-13.33.33:164][ 38]Re-instancing MovingPlatform after reload.
+[2023.10.03-13.33.33:225][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.10.03-13.33.33:378][ 39]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.10.03-13.33.33:378][ 39]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.10.03-13.33.38:305][406]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.03-13.33.38:312][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-13.33.38:312][406]PIE: New page: PIE session: Main (Oct 3, 2023, 3:33:38 AM)
+[2023.10.03-13.33.38:346][406]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.10.03-13.33.38:370][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023911s)
+[2023.10.03-13.33.38:370][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.023977s)
+[2023.10.03-13.33.38:374][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.03-13.33.38:377][406]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-13.33.38:378][406]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.03-13.33.38:378][406]LogAIModule: Creating AISystem for world Main
+[2023.10.03-13.33.38:378][406]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2023.10.03-13.33.38:378][406]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.03-13.33.38:378][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-13.33.38:379][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-13.33.38:379][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-13.33.38:379][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-13.33.38:379][406]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.03-13.33.38:379][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.03-13.33.38:379][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.03-13.33.38:379][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-13.33.38:379][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-13.33.38:379][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-13.33.38:379][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-13.33.38:381][406]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-13.33.38:408][406]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.10.03-13.33.38:409][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-13.33.38:409][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-13.33.38:409][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-13.33.38:409][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.03-13.33.38:409][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.03-13.33.38:412][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.03-13.33.38:412][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.03-13.33.38:412][406]LogInit: FAudioDevice initialized with ID 6.
+[2023.10.03-13.33.38:412][406]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2023.10.03-13.33.38:412][406]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.03-13.33.38:416][406]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.03-13.33.38:428][406]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.03-08.33.38
+[2023.10.03-13.33.39:967][406]LogWorld: Bringing up level for play took: 1.550625
+[2023.10.03-13.33.39:969][406]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.10.03-13.33.39:971][406]PIE: Server logged in
+[2023.10.03-13.33.39:972][406]PIE: Play in editor total start time 1.659 seconds.
+[2023.10.03-13.33.54:287][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.33.54:287][650]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.10.03-13.33.54:287][650]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-13.33.54:289][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.33.54:292][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-13.33.54:294][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-13.33.54:298][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-13.33.54:301][650]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.03-13.33.54:301][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.03-13.33.54:303][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.03-13.33.54:310][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.03-13.33.54:406][652]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.10.03-13.34.10:149][ 68]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.03-13.35.25:203][666]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_4.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_4.exp
+[2023.10.03-13.35.25:689][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.03-13.35.25:830][668]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2023.10.03-13.35.25:830][668]LogLiveCoding: Display: Live coding succeeded
+[2023.10.03-13.35.29:833][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
