@@ -1583,3 +1583,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.08-03.11.25:730][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2024.01.08-03.11.25:916][757]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
 [2024.01.08-03.11.25:916][757]LogLiveCoding: Display: Live coding succeeded
+[2024.01.08-03.26.56:988][764]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.08-03.27.10:233][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
