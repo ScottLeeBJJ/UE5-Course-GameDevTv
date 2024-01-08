@@ -4019,3 +4019,134 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.08-06.24.25:871][927]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
 [2024.01.08-06.24.25:871][927]LogLiveCoding: Display: Live coding succeeded
 [2024.01.08-06.24.31:055][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.01.08-06.26.53:817][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.08-06.26.53:832][ 46]LogStall: Shutdown...
+[2024.01.08-06.26.53:842][ 46]LogStall: Shutdown complete.
+[2024.01.08-06.26.53:888][ 46]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.08-06.26.53:888][ 46]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.53:888][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-06.26.54:087][ 46]LogSlate: Window 'ObstacleGame - Unreal Editor' being destroyed
+[2024.01.08-06.26.54:480][ 47]Cmd: QUIT_EDITOR
+[2024.01.08-06.26.54:480][ 47]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.01.08-06.26.54:622][ 47]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.01.08-06.26.54:673][ 47]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.01.08-06.26.54:677][ 47]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.01.08-06.26.54:816][ 47]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.54:817][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-06.26.55:475][ 47]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.01.08-06.26.56:230][ 47]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.01.08-06.26.56:230][ 47]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.01.08-06.26.56:230][ 47]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2024.01.08-06.26.56:230][ 47]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.01.08-06.26.56:243][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.01.08-06.26.56:247][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.01.08-06.26.56:273][ 47]LogAudio: Display: Audio Device Manager Shutdown
+[2024.01.08-06.26.56:273][ 47]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.01.08-06.26.56:343][ 47]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.01.08-06.26.56:383][ 47]LogExit: Preparing to exit.
+[2024.01.08-06.26.56:779][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.08-06.26.56:792][ 47]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:792][ 47]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:796][ 47]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:797][ 47]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:798][ 47]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.56:798][ 47]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.08-06.26.58:217][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:217][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:217][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:217][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:217][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:217][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:217][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:217][ 47]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:219][ 47]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:220][ 47]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:221][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:221][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:221][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:221][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:221][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:221][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:221][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:221][ 47]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:222][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:222][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:222][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:222][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:222][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:222][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:222][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:222][ 47]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:222][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:222][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:223][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:223][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:223][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:223][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:223][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:223][ 47]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:223][ 47]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:224][ 47]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:225][ 47]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:225][ 47]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.58:226][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:226][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:226][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:226][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:226][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:226][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:226][ 47]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.08-06.26.58:226][ 47]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-06.26.59:076][ 47]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.01.08-06.27.00:228][ 47]LogExit: Editor shut down
+[2024.01.08-06.27.00:249][ 47]LogExit: Transaction tracking system shut down
+[2024.01.08-06.27.05:306][ 47]LogExit: Object subsystem successfully closed.
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: ================================================
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Total job queries 235, among them cache hits 53 (22.55%)
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Tracking 174 distinct input hashes that result in 107 distinct outputs (61.49%)
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: RAM used: 396.44 KiB of 819.20 MiB budget. Usage: 0.05%
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Shaders Compiled: 90
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Jobs assigned 90, completed 90 (100%)
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Average time worker was idle: 647.29 s
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 3.63 s
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Job execution time: average 1.33 s, max 4.50 s
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Job life time (pending + execution): average 1.62 s, max 4.54
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Shader code size: average 4.334 KiB, min 280 B, max 14.02 KiB
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.89 s
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Jobs were issued in 90 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Average processing rate: 4.52 jobs/sec
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Total thread time: 57.764 s
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Total thread preprocess time: 20.232 s
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Percentage time preprocessing: 35.03%
+[2024.01.08-06.27.05:336][ 47]LogShaderCompilers: Display: Effective parallelization: 2.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   10 times, average 0.80 sec, max 1.54 sec, min 0.29 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   19 times, average 0.77 sec, max 1.55 sec, min 0.38 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   18 times, average 0.72 sec, max 1.52 sec, min 0.30 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   10 times, average 0.54 sec, max 1.29 sec, min 0.14 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.42% of total time (compiled   19 times, average 0.77 sec, max 1.55 sec, min 0.38 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.46% of total time (compiled   18 times, average 0.72 sec, max 1.52 sec, min 0.30 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.84% of total time (compiled   10 times, average 0.80 sec, max 1.54 sec, min 0.29 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.33% of total time (compiled   10 times, average 0.54 sec, max 1.29 sec, min 0.14 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 5.43% of total time (compiled    6 times, average 0.52 sec, max 0.56 sec, min 0.49 sec)
+[2024.01.08-06.27.05:337][ 47]LogShaderCompilers: Display: ================================================
+[2024.01.08-06.27.05:351][ 47]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.01.08-06.27.05:602][ 47]LogVirtualization: UE::Virtualization was shutdown
