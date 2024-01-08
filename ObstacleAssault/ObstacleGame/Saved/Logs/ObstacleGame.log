@@ -1559,3 +1559,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.08-03.04.52:379][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 664 ms
 [2024.01.08-03.04.52:381][593]AssetCheck: New page: Asset Save: Main
 [2024.01.08-03.04.52:381][593]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2024.01.08-03.05.32:013][865]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_2.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_2.exp
+[2024.01.08-03.05.32:193][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.08-03.05.32:384][867]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2024.01.08-03.05.32:384][867]LogLiveCoding: Display: Live coding succeeded
+[2024.01.08-03.09.10:904][640]LogViewport: Scene viewport resized to 813x555, mode Windowed.
+[2024.01.08-03.09.13:170][640]LogViewport: Scene viewport resized to 603x861, mode Windowed.
+[2024.01.08-03.09.42:061][650]LogViewport: Scene viewport resized to 722x861, mode Windowed.
+[2024.01.08-03.10.15:576][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.08-03.10.15:581][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-03.10.15:639][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.08-03.10.15:674][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.08-03.10.15:760][367]LogSavePackage: Moving output files for package: /Game/Main
+[2024.01.08-03.10.15:761][367]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/MainA3FF3A004707DED78C5531851F704DA7.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Main.umap'
+[2024.01.08-03.10.15:768][367]LogFileHelpers: Saving map 'Main' took 0.129
+[2024.01.08-03.10.15:775][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 858 ms)
+[2024.01.08-03.10.15:777][367]AssetCheck: New page: Asset Save: Main
+[2024.01.08-03.10.15:777][367]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2024.01.08-03.10.33:637][603]LogViewport: Scene viewport resized to 972x555, mode Windowed.
+[2024.01.08-03.10.35:520][603]LogViewport: Scene viewport resized to 968x861, mode Windowed.
+[2024.01.08-03.10.38:563][613]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.08-03.11.25:543][755]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_3.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_3.exp
+[2024.01.08-03.11.25:730][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.08-03.11.25:916][757]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2024.01.08-03.11.25:916][757]LogLiveCoding: Display: Live coding succeeded
