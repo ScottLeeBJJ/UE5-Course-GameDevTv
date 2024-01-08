@@ -1313,3 +1313,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.08-02.44.25:613][833]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2024.01.08-02.44.25:730][833]LogViewport: Scene viewport resized to 282x272, mode Windowed.
 [2024.01.08-02.44.32:330][399]LogEditorViewport: Clicking Background
+[2024.01.08-02.57.58:249][261]LogLiveCoding: Display: Starting Live Coding compile.
