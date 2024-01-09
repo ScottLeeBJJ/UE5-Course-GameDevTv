@@ -8186,3 +8186,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.09-10.22.53:439][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
 [2024.01.09-10.22.53:512][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_37
 [2024.01.09-10.22.59:440][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.09-10.26.27:247][773]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.01.09-10.26.27:258][773]LogContentBrowser: Creating deferred item: NewWorld
+[2024.01.09-10.26.27:274][774]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.01.09-10.26.32:984][249]LogContentBrowser: Attempting asset rename: NewWorld -> Level1
+[2024.01.09-10.26.32:985][249]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-10.26.32:985][249]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.09-10.26.33:019][249]LogContentBrowser: End creating deferred item NewWorld
+[2024.01.09-10.26.37:499][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.01.09-10.26.37:509][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.09-10.26.37:568][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.09-10.26.37:582][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.09-10.26.37:585][574]LogSavePackage: Moving output files for package: /Game/Level1
+[2024.01.09-10.26.37:585][574]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/Level18637200E49312F0B3F123591CE90C163.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Level1.umap'
+[2024.01.09-10.26.37:592][574]LogFileHelpers: Saving map 'Level1' took 0.025
+[2024.01.09-10.26.37:597][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.09 sec)
+[2024.01.09-10.26.37:597][574]AssetCheck: New page: Asset Save: Level1
+[2024.01.09-10.26.37:597][574]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1.Level1
