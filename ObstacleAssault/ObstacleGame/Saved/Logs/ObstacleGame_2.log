@@ -1792,3 +1792,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.09-10.52.58:340][352]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1.Level1
 [2024.01.09-10.52.58:340][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_MovingPlatform.BP_MovingPlatform
 [2024.01.09-10.52.58:340][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_PushingCube.BP_PushingCube
+[2024.01.09-10.53.27:421][582]LogEditorViewport: Clicking Background
+[2024.01.09-10.53.41:941][891]LogEditorViewport: Clicking Background
+[2024.01.09-10.54.07:397][997]LogEditorViewport: Clicking Background
+[2024.01.09-10.54.28:314][681]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.09-10.55.00:470][947]LogEditorViewport: Clicking Background
+[2024.01.09-10.55.01:870][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.09-10.55.01:875][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.09-10.55.01:923][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.09-10.55.01:952][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.09-10.55.01:980][109]LogSavePackage: Moving output files for package: /Game/Level1
+[2024.01.09-10.55.01:980][109]LogSavePackage: Moving '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Saved/Level155A7A6594B294BB99D05EB821FB25C56.tmp' to '../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/Level1.umap'
+[2024.01.09-10.55.01:986][109]LogFileHelpers: Saving map 'Level1' took 0.063
+[2024.01.09-10.55.02:001][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 323 ms)
+[2024.01.09-10.55.02:002][109]AssetCheck: New page: Asset Save: Level1
+[2024.01.09-10.55.02:002][109]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1.Level1
