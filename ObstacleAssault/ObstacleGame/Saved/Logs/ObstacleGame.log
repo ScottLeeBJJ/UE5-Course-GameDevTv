@@ -6378,3 +6378,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.09-09.17.06:038][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2024.01.09-09.17.06:438][878]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
 [2024.01.09-09.17.06:438][878]LogLiveCoding: Display: Live coding succeeded
+[2024.01.09-09.45.07:347][ 50]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.09-09.45.56:589][266]LogLiveCoding: Display:    Creating library D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_2.lib and object D:\Development\UE5-Course-GameDevTv\ObstacleAssault\ObstacleGame\Binaries\Win64\UnrealEditor-ObstacleGame.patch_2.exp
+[2024.01.09-09.45.57:070][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.01.09-09.45.57:417][268]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2024.01.09-09.45.57:417][268]LogLiveCoding: Display: Live coding succeeded
