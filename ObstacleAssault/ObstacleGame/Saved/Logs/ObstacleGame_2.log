@@ -724,3 +724,78 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.09-10.44.32:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
 [2024.01.09-10.44.32:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
 [2024.01.09-10.44.32:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.01.09-10.44.32:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.01.09-10.44.32:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.01.09-10.44.32:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.01.09-10.44.32:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.01.09-10.44.32:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.01.09-10.44.32:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.01.09-10.44.32:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.01.09-10.44.32:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.01.09-10.44.32:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.01.09-10.44.33:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.01.09-10.44.33:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2024.01.09-10.44.33:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.01.09-10.44.33:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.01.09-10.44.33:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.01.09-10.44.33:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.01.09-10.44.33:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.01.09-10.44.33:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.01.09-10.44.33:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.01.09-10.44.33:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.01.09-10.44.33:181][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.01.09-10.44.33:486][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.01.09-10.44.34:203][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.01.09-10.44.34:431][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_METAL
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_METAL_SM6
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_METAL_SIM
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.01.09-10.44.34:533][  0]LogTargetPlatformManager:   SF_VULKAN_SM6
+[2024.01.09-10.44.34:534][  0]LogRendererCore: Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+[2024.01.09-10.44.34:536][  0]LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2024.01.09-10.44.34:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph: Pak pak cache file ../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.01.09-10.44.34:536][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.01.09-10.44.34:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.01.09-10.44.34:536][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.01.09-10.44.34:623][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (2383 MiB)
+[2024.01.09-10.44.34:623][  0]LogDerivedDataCache: FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.01.09-10.44.34:623][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.01.09-10.44.34:637][  0]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Speed tests took 0.01 seconds.
+[2024.01.09-10.44.34:637][  0]LogDerivedDataCache: Display: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.24ms. RandomReadSpeed=161.66MBs, RandomWriteSpeed=186.82MBs. Assigned SpeedClass 'Local'
+[2024.01.09-10.44.34:638][  0]LogDerivedDataCache: Local: Using data cache path C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.01.09-10.44.34:639][  0]LogDerivedDataCache: Shared: Disabled because no path is configured.
+[2024.01.09-10.44.34:639][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.01.09-10.44.34:639][  0]LogDerivedDataCache: Cloud: Disabled because Host is set to 'None'
+[2024.01.09-10.44.34:639][  0]LogDerivedDataCache: Unable to find inner node Cloud for hierarchy Hierarchy.
+[2024.01.09-10.44.34:649][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Intermediate/Shaders/WorkingDirectory/23004/).
+[2024.01.09-10.44.34:649][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scott/AppData/Local/Temp/UnrealShaderWorkingDir/9E81EE314CD5C4855E9DF0ABE69C1646/'.
+[2024.01.09-10.44.34:649][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.01.09-10.44.34:649][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2024.01.09-10.44.42:712][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.01.09-10.44.42:712][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.01.09-10.44.43:435][  0]LogSlate: Using FreeType 2.10.0
+[2024.01.09-10.44.43:524][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.01.09-10.44.44:316][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches ../../../../../Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Intermediate/CachedAssetRegistry_*.bin.
+[2024.01.09-10.44.44:316][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2024.01.09-10.44.44:359][  0]LogEditorDomain: Display: EditorDomain is Disabled

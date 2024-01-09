@@ -10159,3 +10159,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.09-10.44.32:593][541]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
 [2024.01.09-10.44.32:646][541]LogD3D11RHI: Shutdown
 [2024.01.09-10.44.32:646][541]LogD3D11RHI: CleanupD3DDevice
+[2024.01.09-10.44.33:135][541]LogExit: Exiting.
+[2024.01.09-10.44.33:219][541]Log file closed, 01/09/24 04:44:33
