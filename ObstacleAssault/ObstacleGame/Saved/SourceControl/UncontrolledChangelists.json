@@ -11,7 +11,8 @@
 				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO.uasset",
 				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_MovingPlatform.uasset",
 				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_PushingCube.uasset",
-				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_ObstacleAssaultGameMode.uasset"
+				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_ObstacleAssaultGameMode.uasset",
+				"D:/Development/UE5-Course-GameDevTv/ObstacleAssault/ObstacleGame/Content/BP_RotatingPlatform.uasset"
 			]
 		}
 	]
